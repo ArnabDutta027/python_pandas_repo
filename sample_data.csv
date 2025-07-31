@@ -1,0 +1,11 @@
+name,email,age,city,department,salary
+John Doe,john.doe@company.com,30,New York,Engineering,75000
+Jane Smith,jane.smith@company.com,25,Los Angeles,Marketing,65000
+Bob Johnson,bob.johnson@company.com,35,Chicago,Sales,70000
+Alice Brown,alice.brown@company.com,28,Houston,Engineering,80000
+Charlie Wilson,charlie.wilson@company.com,32,Phoenix,HR,60000
+Diana Davis,diana.davis@company.com,29,Philadelphia,Marketing,67000
+Eve Martinez,eve.martinez@company.com,31,San Antonio,Engineering,82000
+Frank Garcia,frank.garcia@company.com,27,San Diego,Sales,68000
+Grace Rodriguez,grace.rodriguez@company.com,33,Dallas,HR,62000
+Henry Lee,henry.lee@company.com,26,San Jose,Engineering,85000
