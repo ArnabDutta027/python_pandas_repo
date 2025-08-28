@@ -46,7 +46,7 @@ print(f"x :{x} \n y: {y}")
 new_array = [[1],[2],[3],[4],[5]]
 flattened_list = [elements for sublist_elements in new_array for elements in sublist_elements]
 #using numpy arrray to flatten a nested list
-print(f"numpy array ro list: {np.array(new_array).reshape(-1).tolist()}")
+print(f"numpy array to list: {np.array(new_array).reshape(-1).tolist()}")
 
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
@@ -55,3 +55,8 @@ plt.xlabel("Family Size")
 plt.ylabel("Count of Students")
 plt.title("Count of Students by Family Size")
 plt.show()
+
+
+# read excel file
+excel_df = pd.read_excel("python_pandas_practice\sensor_data.xlsx",sheet_name="20210117_0037",usecols=[2,3,4,5],header=[3],engine='openpyxl')
+print(excel_df.head())
