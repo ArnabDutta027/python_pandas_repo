@@ -51,3 +51,23 @@ def add_values(x,y):
 
 product_df['add_sales_square_and_sales_multiplied'] = product_df[["sales_square","sales_multiplied"]].apply(lambda rows: add_values(rows["sales_square"],rows["sales_multiplied"]), axis=1)
 print(product_df.head())
+
+
+#rename columns
+columns_renamed_dict={}
+for column_names in product_df.columns:
+    columns_renamed_dict.update({column_names: str(column_names).upper()})
+
+product_df = product_df.rename(columns=columns_renamed_dict)
+print(product_df.head())
+
+
+#convert dataframe to numpy array
+product_numpy_array=product_df.to_numpy()
+print(product_numpy_array)
+print(type(product_numpy_array))
+
+for rows in product_numpy_array:
+    row_list = rows.reshape(-1).tolist()
+    type_rows = type(rows)
+    print(f"PRODUCT - {row_list[0]} ,SALES - {row_list[1]}, SALES_SQUARE - {row_list[2]}, SALES_MULTIPLIED - {row_list[3]}, ADD_SALES_SQUARE_AND_SALES_MULTIPLIED - {row_list[4]} , TYPE OF ROWS - {type_rows}")
