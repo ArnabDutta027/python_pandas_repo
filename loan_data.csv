@@ -1,0 +1,1001 @@
+age,annual_income,employment_length,loan_amount,credit_score,debt_to_income,num_credit_lines,credit_history_years,education,home_ownership,loan_purpose,credit_risk
+65,162432,23,1000,644,0.284,11,0,High School,Mortgage,car,0
+67,88293,0,24285,604,1.0,13,0,High School,Mortgage,business,1
+20,30652,12,46000,844,0.0,6,0,Master,Other,business,0
+33,62669,0,10746,672,0.938,7,0,Bachelor,Own,medical,1
+45,112303,12,1000,581,0.592,9,0,Bachelor,Other,vacation,0
+69,87725,0,49675,648,0.117,10,0,Bachelor,Other,wedding,0
+48,146626,11,58586,850,0.328,3,11,High School,Mortgage,vacation,0
+18,89807,23,34291,832,0.0,0,4,Associate,Mortgage,debt_consolidation,0
+18,20000,5,75083,850,0.386,0,0,High School,Other,home_improvement,0
+18,77290,39,1000,838,0.0,0,9,Associate,Other,medical,0
+80,100543,0,68789,379,1.0,14,0,PhD,Mortgage,debt_consolidation,1
+49,70177,0,1000,697,1.0,15,0,High School,Own,major_purchase,1
+80,132319,0,16988,543,0.17,14,0,High School,Own,car,1
+35,155938,25,1000,714,0.879,8,0,High School,Other,major_purchase,1
+48,85213,0,51432,496,0.859,0,7,Bachelor,Own,debt_consolidation,1
+75,50653,0,75286,336,1.0,4,0,Bachelor,Other,car,1
+40,116061,18,10357,751,0.128,4,7,Associate,Rent,business,0
+32,70471,0,14671,654,0.976,5,0,Associate,Mortgage,major_purchase,1
+18,20000,33,1000,850,1.0,0,29,High School,Other,vacation,1
+18,63329,0,1000,676,1.0,0,9,Associate,Other,debt_consolidation,1
+26,44875,27,1000,741,0.0,7,0,Bachelor,Other,debt_consolidation,0
+49,159750,13,1000,650,0.657,5,0,Associate,Own,vacation,0
+18,63089,0,1000,668,1.0,3,0,PhD,Other,home_improvement,1
+36,90740,15,1000,757,0.157,8,0,Bachelor,Rent,wedding,0
+80,195968,12,1000,544,0.859,11,3,PhD,Own,vacation,1
+18,40395,3,1000,796,0.696,6,0,Associate,Mortgage,business,0
+54,59533,0,66650,504,0.693,2,3,Master,Rent,business,1
+41,180996,34,1000,676,0.213,2,4,High School,Other,major_purchase,0
+20,82391,9,1000,668,0.626,6,0,Bachelor,Rent,business,1
+80,136081,0,43191,683,0.0,10,0,PhD,Other,vacation,0
+80,79632,0,34770,505,0.842,20,0,Master,Rent,medical,1
+18,20000,13,47630,850,0.0,4,0,Master,Own,home_improvement,0
+48,94722,0,29873,610,0.335,3,0,Bachelor,Other,wedding,0
+37,113881,10,24869,796,0.374,4,3,Bachelor,Own,major_purchase,0
+32,118550,29,1000,738,0.0,2,0,Master,Rent,business,0
+77,66696,0,93854,337,0.859,0,12,High School,Other,vacation,1
+18,60236,8,1000,690,0.809,2,8,High School,Mortgage,major_purchase,1
+18,20000,0,45269,355,1.0,0,17,PhD,Mortgage,debt_consolidation,1
+35,104607,14,12533,724,0.0,3,1,High School,Other,wedding,0
+25,73815,11,19974,734,0.056,2,1,Master,Rent,vacation,0
+18,61238,7,9601,810,0.281,2,0,Master,Mortgage,medical,1
+18,117605,40,1000,850,0.0,0,17,Associate,Other,major_purchase,0
+31,43605,0,46858,499,0.761,0,12,Master,Mortgage,car,1
+18,66488,36,1000,714,0.0,1,0,High School,Other,car,0
+18,59180,2,7359,677,1.0,0,14,PhD,Rent,wedding,1
+33,102036,13,1000,631,0.482,6,0,Associate,Rent,home_improvement,0
+54,98882,0,32218,663,0.211,6,1,High School,Own,car,0
+80,134283,0,22666,611,0.0,15,0,PhD,Mortgage,home_improvement,0
+80,162975,0,1000,672,0.428,14,0,High School,Own,major_purchase,1
+31,54706,0,22173,560,0.893,1,10,Associate,Rent,major_purchase,1
+18,62027,32,1000,847,0.0,2,0,Master,Other,business,0
+39,64857,0,39217,513,0.513,0,3,Associate,Rent,wedding,1
+80,80617,0,59945,442,0.115,8,0,Master,Rent,medical,0
+80,117562,3,4571,517,0.0,20,4,Associate,Other,debt_consolidation,0
+57,134346,0,32735,614,0.119,1,0,Bachelor,Own,vacation,0
+57,111620,9,1000,654,0.549,11,2,High School,Mortgage,car,0
+80,90699,0,56262,521,0.77,15,0,High School,Rent,medical,1
+57,58994,0,30844,559,0.519,8,8,Bachelor,Rent,business,1
+80,173627,18,1000,556,0.469,13,6,Master,Mortgage,vacation,0
+65,69119,0,30959,471,1.0,9,0,High School,Rent,wedding,1
+54,75599,0,42743,521,0.056,1,6,Bachelor,Mortgage,vacation,1
+18,112644,20,1000,742,0.395,2,0,High School,Mortgage,debt_consolidation,0
+23,119011,29,14943,814,0.0,0,13,PhD,Mortgage,vacation,0
+50,64797,0,49454,468,1.0,3,0,Master,Other,wedding,1
+61,59273,0,53466,513,0.442,5,11,PhD,Own,medical,1
+72,129266,23,1000,570,0.0,16,0,Master,Own,debt_consolidation,0
+50,95083,0,31806,610,0.522,4,0,Bachelor,Other,home_improvement,1
+80,53688,0,48653,505,0.718,20,0,Master,Own,business,1
+80,82886,0,62308,462,0.801,20,0,Master,Own,vacation,1
+41,111685,21,1000,773,0.0,8,0,Bachelor,Own,major_purchase,0
+76,51380,0,100000,323,0.712,0,5,Master,Rent,car,1
+80,73163,0,53537,538,0.614,15,0,High School,Other,vacation,1
+34,161739,12,1000,738,0.814,1,0,Associate,Own,home_improvement,1
+28,69529,12,33789,796,0.0,4,0,Bachelor,Other,vacation,0
+41,59030,0,27664,579,0.757,4,0,Associate,Own,wedding,1
+55,85160,0,37592,592,0.168,4,4,Bachelor,Own,medical,0
+80,91701,0,71474,444,0.937,14,0,Bachelor,Other,medical,1
+18,20000,40,1000,850,0.0,1,0,PhD,Mortgage,major_purchase,0
+80,90028,0,47014,354,1.0,12,0,PhD,Other,business,1
+22,104809,6,34932,731,0.222,0,3,Master,Mortgage,major_purchase,0
+80,108345,6,69970,701,0.008,13,22,Associate,Rent,business,0
+24,64808,9,1000,684,0.282,5,0,Bachelor,Other,wedding,0
+80,158819,9,12813,530,0.0,13,12,Master,Mortgage,car,0
+80,199190,6,48627,685,0.332,5,15,High School,Own,business,0
+39,110100,21,1000,704,0.561,9,6,Bachelor,Rent,medical,0
+80,122094,0,57009,596,0.113,8,5,High School,Other,medical,0
+80,114519,0,47147,582,0.036,12,0,Master,Mortgage,home_improvement,0
+22,109207,25,1000,850,0.509,7,3,PhD,Mortgage,business,0
+51,40884,16,1000,590,0.0,14,0,Master,Other,wedding,0
+34,92177,0,35172,700,0.328,1,0,High School,Mortgage,home_improvement,1
+45,55885,0,61123,577,0.0,0,12,Bachelor,Other,home_improvement,1
+18,33977,11,50891,850,0.0,6,0,Associate,Mortgage,debt_consolidation,0
+72,79672,24,1000,584,0.0,16,2,Master,Own,medical,0
+67,159809,8,54795,740,0.417,4,19,Bachelor,Other,major_purchase,0
+18,20000,23,41031,850,0.0,2,0,PhD,Other,major_purchase,0
+55,73223,0,29563,504,0.931,5,0,PhD,Rent,wedding,1
+18,51354,40,1000,776,0.0,0,0,PhD,Own,business,0
+80,82520,0,59126,343,1.0,8,0,Bachelor,Other,home_improvement,1
+18,20000,0,34644,514,1.0,0,23,Master,Mortgage,medical,1
+47,85311,0,24099,622,0.828,5,4,Bachelor,Mortgage,business,1
+80,117887,0,56511,538,0.088,17,0,Bachelor,Mortgage,home_improvement,0
+67,62318,0,19073,473,1.0,12,0,Associate,Rent,business,1
+18,70239,0,70617,850,0.51,0,0,Associate,Other,debt_consolidation,0
+18,44858,0,64370,841,0.076,0,0,Master,Mortgage,business,0
+36,51996,16,10580,729,0.0,8,0,Associate,Rent,major_purchase,0
+80,55185,0,97178,300,1.0,6,0,PhD,Rent,car,1
+43,70524,10,21588,620,0.0,4,9,Associate,Other,business,1
+80,166847,0,9116,430,0.905,20,7,PhD,Mortgage,debt_consolidation,1
+57,21756,0,42524,540,0.597,10,5,Master,Own,business,1
+53,50045,14,1000,667,0.0,13,0,Bachelor,Mortgage,vacation,0
+18,20000,14,81521,850,0.0,0,0,Bachelor,Own,debt_consolidation,0
+80,179917,0,1000,486,1.0,14,11,Associate,Own,car,1
+25,22375,18,1000,679,0.0,8,0,PhD,Mortgage,vacation,0
+20,29675,13,41240,750,0.0,3,0,High School,Own,debt_consolidation,0
+33,134065,14,6909,755,0.502,1,6,High School,Rent,medical,0
+72,97687,0,26665,603,1.0,14,0,High School,Rent,home_improvement,1
+35,101080,0,24235,672,0.417,1,0,Bachelor,Mortgage,debt_consolidation,0
+80,199275,8,30041,761,0.0,15,0,Bachelor,Other,car,0
+47,127082,18,23389,786,0.167,6,10,PhD,Rent,wedding,0
+21,104085,5,10078,677,0.465,0,0,Associate,Mortgage,home_improvement,1
+80,110440,22,1000,591,0.0,17,0,High School,Own,debt_consolidation,0
+80,140839,0,59453,601,0.0,10,0,PhD,Rent,home_improvement,0
+18,20000,0,27508,468,1.0,0,15,PhD,Mortgage,business,1
+18,20000,26,1000,813,0.053,1,0,Associate,Mortgage,debt_consolidation,0
+46,55956,5,1000,616,0.0,14,0,PhD,Other,vacation,0
+80,25252,0,100000,300,1.0,11,0,Associate,Own,car,1
+53,48901,11,10904,689,0.0,13,0,Master,Own,major_purchase,0
+56,104995,14,22536,690,0.0,6,0,Associate,Own,major_purchase,0
+50,150522,9,1000,679,1.0,7,3,High School,Mortgage,car,1
+80,132622,0,53019,531,0.114,14,0,High School,Mortgage,wedding,1
+49,105167,10,1000,554,0.824,10,0,Associate,Own,car,1
+18,68183,8,1000,781,0.106,3,0,Master,Mortgage,business,0
+20,132176,20,13783,850,0.437,1,4,Master,Other,car,0
+18,29953,27,1000,850,0.0,0,0,High School,Mortgage,car,0
+18,65188,21,1000,850,0.48,1,0,Master,Mortgage,home_improvement,0
+80,106459,0,4469,582,0.699,18,0,PhD,Rent,major_purchase,0
+80,200000,5,10462,508,0.822,11,25,Bachelor,Other,wedding,1
+42,39381,11,73602,791,0.0,7,0,PhD,Rent,home_improvement,0
+55,144844,21,1000,741,0.103,11,0,High School,Own,major_purchase,0
+79,153967,19,1000,617,0.0,13,0,Master,Own,car,0
+18,47075,12,60158,850,0.025,0,6,Associate,Other,major_purchase,0
+80,179036,0,1000,476,0.881,7,10,Bachelor,Mortgage,medical,1
+18,68069,24,1000,706,0.0,3,0,Associate,Rent,debt_consolidation,0
+38,24901,0,26510,513,1.0,6,0,High School,Other,debt_consolidation,1
+40,82872,7,36062,731,0.0,4,2,Master,Rent,vacation,0
+28,31076,17,1000,558,0.0,14,0,Associate,Mortgage,business,0
+72,147133,0,51450,558,0.029,1,0,Associate,Rent,car,1
+18,82592,18,1000,804,0.767,3,7,Bachelor,Other,car,0
+80,121349,0,93968,358,0.236,8,0,Bachelor,Mortgage,medical,0
+65,121073,29,1000,608,0.0,11,1,Master,Mortgage,medical,0
+18,114682,40,1000,850,0.028,3,8,Bachelor,Other,business,0
+24,57945,9,41331,830,0.116,5,2,Associate,Mortgage,wedding,0
+54,119754,25,1000,728,0.0,10,0,Associate,Rent,major_purchase,0
+72,113465,0,20469,695,0.447,14,0,High School,Own,vacation,0
+55,108358,7,1000,642,0.564,9,4,Associate,Other,medical,0
+42,69835,39,1000,587,0.0,11,0,Master,Rent,home_improvement,0
+25,103514,19,13422,791,0.0,1,0,PhD,Mortgage,debt_consolidation,0
+80,103149,0,27058,650,0.204,17,0,High School,Own,car,0
+62,114317,4,36633,690,0.0,7,0,High School,Rent,debt_consolidation,1
+18,83496,18,12650,850,0.38,0,3,Master,Other,medical,0
+66,111281,0,6950,633,1.0,13,0,Master,Mortgage,medical,1
+80,77445,0,90238,337,1.0,17,0,Bachelor,Other,home_improvement,1
+18,128343,34,1000,808,0.32,0,10,High School,Rent,home_improvement,0
+55,30453,0,33032,397,1.0,7,0,Bachelor,Own,debt_consolidation,1
+44,39356,19,1000,624,0.0,15,0,Associate,Rent,business,0
+80,80930,0,100000,300,0.343,9,0,High School,Rent,debt_consolidation,0
+21,79829,21,1000,728,0.209,8,0,High School,Mortgage,medical,0
+18,20000,10,91381,850,0.0,0,0,PhD,Other,debt_consolidation,0
+73,144804,0,50478,589,0.069,3,0,High School,Rent,car,1
+61,56248,0,38589,566,0.97,10,0,Associate,Rent,business,1
+60,122375,4,26879,704,0.054,7,0,Bachelor,Own,medical,1
+80,142468,0,69919,551,0.0,13,0,Bachelor,Own,medical,0
+35,80258,12,15249,773,0.135,7,0,PhD,Other,debt_consolidation,0
+53,137018,0,1000,747,1.0,11,0,Associate,Other,major_purchase,1
+48,113321,34,1000,630,0.0,11,0,Bachelor,Mortgage,vacation,0
+19,124422,10,1000,731,0.804,0,1,Master,Other,medical,1
+18,129083,40,1000,850,0.0,0,15,Associate,Own,wedding,0
+80,102249,0,100000,391,0.799,10,0,Associate,Other,wedding,1
+71,20000,0,100000,305,1.0,5,0,PhD,Rent,medical,1
+65,115350,0,1000,576,0.824,10,0,Bachelor,Other,vacation,0
+67,79474,0,34183,684,0.09,13,0,Associate,Other,major_purchase,1
+80,198470,12,3813,667,0.811,12,19,Bachelor,Mortgage,medical,1
+18,67761,17,1000,850,0.305,2,0,Master,Rent,car,0
+30,95855,16,33343,772,0.0,1,8,PhD,Mortgage,vacation,0
+18,20000,12,53194,818,0.0,0,0,Master,Own,vacation,0
+80,145047,0,100000,304,0.285,15,0,PhD,Other,debt_consolidation,0
+69,55067,0,1000,620,0.933,20,0,Associate,Other,major_purchase,1
+28,85217,0,1113,671,1.0,4,0,PhD,Own,car,1
+80,105940,0,98435,328,0.275,6,0,High School,Mortgage,business,0
+18,20000,0,25990,518,1.0,0,28,Bachelor,Rent,debt_consolidation,1
+46,57399,0,64006,540,0.0,0,17,Bachelor,Mortgage,wedding,1
+60,149606,14,8518,721,0.323,7,7,High School,Mortgage,car,0
+18,93059,18,1000,832,0.703,0,0,Master,Rent,wedding,1
+43,49698,0,49054,515,0.882,2,0,High School,Other,car,1
+80,132382,1,33062,627,0.2,15,9,Associate,Mortgage,car,0
+44,107468,13,19497,753,0.0,6,0,Associate,Own,major_purchase,0
+80,97206,0,54108,592,0.0,14,0,Bachelor,Rent,vacation,0
+18,55991,22,1314,732,0.484,0,18,Associate,Other,car,1
+65,197622,18,1000,611,0.851,4,12,Bachelor,Rent,major_purchase,1
+49,133192,0,21712,779,0.794,7,0,High School,Own,business,0
+80,125985,0,88783,398,0.0,20,0,High School,Rent,medical,1
+37,70241,16,22001,713,0.0,5,0,High School,Rent,medical,0
+18,29135,22,1000,773,0.0,7,0,Bachelor,Mortgage,vacation,0
+18,72413,6,17850,850,0.805,0,0,High School,Own,major_purchase,0
+18,20000,37,1000,822,0.0,6,0,High School,Own,business,0
+80,77016,0,100000,300,0.939,9,0,Master,Own,debt_consolidation,1
+22,157736,8,1000,762,1.0,0,4,High School,Rent,car,1
+40,86497,18,1000,677,0.0,10,0,Associate,Own,car,0
+53,54755,0,56380,531,0.516,3,11,Bachelor,Own,major_purchase,1
+32,56486,19,11687,739,0.0,7,0,Master,Own,car,0
+18,29489,22,1000,797,0.0,7,0,PhD,Mortgage,medical,0
+18,20000,27,1000,758,0.0,6,0,Bachelor,Own,vacation,0
+80,98835,0,67038,442,0.915,6,0,Associate,Rent,medical,1
+29,64667,31,1000,723,0.0,9,0,Bachelor,Mortgage,wedding,0
+18,102904,17,1000,758,0.684,2,2,Associate,Own,home_improvement,1
+48,136553,29,1000,605,0.0,7,0,Associate,Own,business,0
+80,98209,0,57124,465,0.192,15,0,PhD,Mortgage,wedding,0
+31,108014,7,1000,803,0.948,7,0,Bachelor,Own,home_improvement,1
+18,20000,20,1000,778,0.0,6,0,PhD,Rent,medical,0
+33,42810,0,46001,420,1.0,0,14,PhD,Rent,debt_consolidation,1
+21,73763,27,7065,799,0.0,4,0,Bachelor,Own,vacation,0
+31,64629,0,1000,608,1.0,7,0,High School,Rent,car,1
+74,179747,8,39174,744,0.64,6,16,High School,Mortgage,debt_consolidation,1
+18,56426,26,1000,725,0.767,0,26,PhD,Own,home_improvement,1
+18,37604,5,1000,600,1.0,0,28,Master,Mortgage,medical,1
+37,87943,19,1000,722,0.0,6,0,PhD,Rent,medical,0
+34,57408,0,2513,597,0.491,5,3,PhD,Own,business,1
+40,106467,20,1000,710,0.169,9,0,PhD,Mortgage,medical,0
+18,99450,11,1000,850,0.993,0,0,High School,Rent,wedding,1
+57,97183,0,33281,636,0.64,7,0,High School,Own,vacation,1
+79,132707,7,44330,734,0.0,11,0,High School,Other,debt_consolidation,0
+35,44626,0,39843,610,0.82,4,0,PhD,Rent,medical,1
+80,24035,0,100000,300,1.0,9,0,Master,Rent,medical,1
+47,20141,0,58632,365,1.0,0,2,High School,Other,home_improvement,1
+68,177391,11,1000,632,0.649,9,0,Bachelor,Other,business,1
+80,113863,3,1000,455,0.0,20,4,Bachelor,Mortgage,medical,0
+18,53341,29,26171,850,0.0,5,0,Bachelor,Rent,medical,0
+72,114857,0,22491,607,0.448,10,0,Associate,Other,car,0
+42,100902,8,1000,687,0.495,7,0,PhD,Own,medical,0
+45,103878,20,1000,680,0.069,6,10,Bachelor,Rent,wedding,0
+71,171409,6,1000,574,1.0,13,0,PhD,Mortgage,vacation,1
+40,142124,22,14070,757,0.0,1,0,Bachelor,Other,car,0
+22,185732,31,1000,695,0.895,0,5,Master,Rent,business,1
+80,41938,0,100000,300,1.0,2,0,PhD,Rent,wedding,1
+36,82667,20,45486,825,0.0,5,11,Bachelor,Other,vacation,0
+18,20000,23,1000,758,0.0,6,0,High School,Other,vacation,0
+35,103510,18,41615,817,0.0,2,7,PhD,Other,wedding,0
+32,81912,0,29913,764,0.989,6,4,Associate,Rent,business,1
+27,124075,15,1000,745,0.691,6,0,High School,Other,business,0
+18,181083,7,38280,850,1.0,0,4,High School,Other,home_improvement,0
+38,20000,0,23454,520,1.0,7,5,Associate,Rent,business,1
+80,85476,0,33871,503,0.232,11,0,High School,Rent,wedding,1
+66,118579,11,1000,658,0.017,12,0,High School,Mortgage,medical,0
+78,85428,0,65105,497,0.0,6,3,Bachelor,Own,wedding,0
+80,132830,12,1000,483,0.063,16,0,Bachelor,Rent,wedding,0
+18,85606,31,12172,850,0.0,0,0,PhD,Own,car,0
+80,79581,0,62801,497,0.517,12,0,PhD,Mortgage,debt_consolidation,1
+36,84449,1,1000,644,0.544,6,0,PhD,Mortgage,medical,0
+24,59636,0,1000,745,0.877,10,0,Bachelor,Other,major_purchase,1
+36,26303,0,49826,430,1.0,0,1,PhD,Mortgage,debt_consolidation,1
+21,138077,31,1000,673,0.535,2,1,High School,Other,vacation,0
+18,20000,13,45607,812,0.0,5,0,Bachelor,Other,car,0
+65,101433,0,40277,618,0.32,7,0,PhD,Rent,vacation,0
+45,126611,11,11300,725,0.382,4,5,High School,Rent,major_purchase,0
+18,69490,37,1000,754,0.0,3,0,PhD,Own,medical,0
+18,75374,1,15391,803,0.59,2,0,Master,Other,wedding,0
+67,146858,3,20408,662,0.454,7,6,PhD,Other,medical,0
+18,41747,8,8726,850,0.624,5,0,Master,Own,car,1
+35,50285,0,23556,500,1.0,2,3,PhD,Other,medical,1
+30,109210,30,24585,850,0.0,3,4,Associate,Mortgage,business,0
+80,61113,0,57954,496,0.341,13,0,PhD,Other,wedding,1
+80,127589,0,72265,472,0.573,11,0,Bachelor,Other,vacation,0
+18,59681,40,1000,769,0.0,5,0,Bachelor,Other,business,0
+39,140581,18,1000,741,0.232,3,1,Master,Rent,business,0
+27,107041,18,1000,766,0.278,3,3,Bachelor,Mortgage,business,0
+50,80845,28,1000,647,0.0,10,0,High School,Other,major_purchase,0
+18,26981,5,72193,850,0.143,0,0,Associate,Mortgage,wedding,0
+49,79409,0,26351,594,1.0,6,0,Associate,Mortgage,major_purchase,1
+18,20000,27,1000,739,0.0,5,0,High School,Mortgage,major_purchase,0
+25,87669,9,11195,785,0.513,5,2,Master,Own,business,0
+18,160713,40,1000,666,0.098,0,0,High School,Other,major_purchase,0
+18,62654,1,7530,569,1.0,0,20,High School,Rent,debt_consolidation,1
+18,20000,0,10177,578,1.0,0,33,Associate,Rent,debt_consolidation,1
+76,71329,0,37342,498,1.0,12,0,PhD,Rent,home_improvement,1
+31,54778,8,1000,721,0.0,9,0,Associate,Rent,debt_consolidation,0
+29,59326,0,1000,678,1.0,8,0,Associate,Other,debt_consolidation,1
+24,78163,28,32813,850,0.0,5,0,Bachelor,Rent,car,0
+51,70906,0,33621,576,0.848,6,1,High School,Mortgage,major_purchase,1
+29,37749,10,1000,662,0.0,9,0,Associate,Own,medical,0
+42,77624,0,1000,606,0.503,6,0,High School,Rent,home_improvement,1
+18,90872,20,1000,819,0.156,2,0,Bachelor,Mortgage,major_purchase,0
+80,140013,0,55160,617,0.0,15,0,High School,Rent,debt_consolidation,0
+80,113305,0,100000,456,0.12,14,0,Associate,Other,medical,1
+34,32676,14,5440,692,0.0,9,0,High School,Mortgage,business,0
+54,93852,18,14876,724,0.0,9,4,Bachelor,Other,wedding,0
+80,112560,0,85672,510,0.572,12,0,PhD,Rent,debt_consolidation,0
+80,200000,0,41665,694,0.0,20,0,High School,Mortgage,business,0
+38,37592,3,60937,735,0.0,6,0,Associate,Mortgage,business,0
+62,123970,3,47724,681,0.0,4,5,Bachelor,Mortgage,debt_consolidation,0
+19,54615,15,7254,747,0.0,4,0,Associate,Rent,debt_consolidation,0
+56,110930,10,12451,706,0.55,9,12,Associate,Own,car,0
+75,53718,0,18457,627,0.232,18,0,High School,Own,debt_consolidation,0
+64,59779,0,49160,491,0.999,7,0,Associate,Other,debt_consolidation,1
+40,47343,10,1000,619,0.067,15,0,High School,Own,vacation,0
+18,51245,1,54384,817,0.129,0,0,PhD,Rent,vacation,0
+18,22798,0,1000,710,1.0,5,0,Associate,Mortgage,debt_consolidation,1
+21,29217,1,79451,823,0.0,3,3,Associate,Mortgage,car,0
+31,68882,7,1000,738,0.367,10,0,Associate,Rent,major_purchase,0
+46,190056,16,1000,777,1.0,3,14,Master,Mortgage,home_improvement,0
+75,104687,0,48659,475,0.275,4,0,Master,Own,home_improvement,0
+18,82487,23,1000,809,0.151,3,0,Bachelor,Other,major_purchase,0
+26,89269,1,1000,656,0.814,3,0,Master,Rent,medical,0
+18,20000,0,17317,832,0.732,6,0,Bachelor,Mortgage,medical,1
+18,25191,11,13019,703,0.736,0,18,Master,Rent,vacation,1
+80,96596,0,87711,552,0.0,13,0,PhD,Own,wedding,0
+18,34800,27,21692,850,0.0,0,0,Bachelor,Mortgage,vacation,0
+80,85477,0,62344,457,0.462,7,0,Master,Mortgage,car,0
+18,75762,12,4479,811,0.435,0,0,PhD,Mortgage,home_improvement,0
+80,77255,0,58726,515,0.78,16,0,Master,Mortgage,wedding,1
+39,88135,5,42892,669,0.0,0,7,High School,Rent,car,0
+80,116936,0,49118,653,0.0,13,0,High School,Own,business,0
+30,57155,30,1000,693,0.0,10,0,PhD,Own,medical,0
+18,26416,40,1000,821,0.0,0,0,Associate,Other,medical,0
+70,54137,0,61817,402,1.0,7,0,Associate,Rent,vacation,1
+30,69634,1,1000,615,0.759,5,2,High School,Own,home_improvement,1
+67,20000,0,100000,310,1.0,5,0,High School,Rent,debt_consolidation,1
+80,84411,0,100000,389,0.615,20,0,Associate,Rent,home_improvement,1
+80,118849,0,72264,481,0.086,13,0,Bachelor,Own,car,0
+80,46307,0,70073,394,0.958,9,0,Associate,Other,car,1
+47,32798,0,57626,443,1.0,1,8,Master,Other,car,1
+80,102899,0,83959,431,0.901,18,0,Bachelor,Other,business,1
+18,24268,7,2558,692,0.797,0,10,Master,Mortgage,debt_consolidation,1
+80,122584,4,1000,546,0.299,20,0,High School,Own,debt_consolidation,0
+18,23110,0,18603,549,1.0,1,1,Bachelor,Mortgage,major_purchase,1
+18,20000,30,50969,850,0.0,0,0,Master,Mortgage,home_improvement,0
+72,21396,0,20165,616,0.0,20,0,Master,Mortgage,business,0
+18,57071,11,1000,803,0.471,4,0,Bachelor,Rent,car,0
+45,47370,0,30709,443,1.0,3,3,PhD,Rent,wedding,1
+80,144081,0,10261,604,0.991,13,4,Associate,Own,home_improvement,0
+44,82605,9,9901,701,0.105,8,0,Master,Own,debt_consolidation,0
+18,20000,0,37370,577,1.0,0,27,Associate,Rent,medical,1
+18,70663,40,1000,850,0.531,0,14,Associate,Rent,medical,0
+75,135319,10,22330,697,0.0,10,0,High School,Mortgage,business,0
+54,123655,13,1000,551,0.323,10,0,Associate,Other,vacation,0
+80,147532,6,23225,718,0.0,13,0,Master,Other,debt_consolidation,0
+80,89964,0,100000,300,0.968,19,0,High School,Other,home_improvement,1
+48,134893,5,1000,654,0.881,7,0,Bachelor,Other,vacation,0
+18,49168,19,1000,721,0.0,5,0,Master,Other,debt_consolidation,0
+18,152662,31,1000,830,0.618,2,1,High School,Mortgage,major_purchase,1
+53,50533,7,1000,677,0.0,15,0,High School,Own,wedding,1
+38,63323,23,1000,661,0.0,9,0,Associate,Rent,debt_consolidation,0
+18,20000,31,1000,686,0.0,10,0,Bachelor,Mortgage,medical,0
+55,121625,15,1000,801,0.0,13,0,Master,Other,major_purchase,0
+18,20000,23,1000,718,0.0,9,0,Master,Rent,car,0
+51,92981,6,3118,665,0.0,8,0,Associate,Mortgage,home_improvement,0
+53,157218,0,3010,636,0.812,2,1,Bachelor,Other,vacation,1
+40,96122,6,7712,720,0.413,6,0,Master,Mortgage,major_purchase,0
+80,84668,0,70795,377,0.706,6,2,Bachelor,Rent,medical,1
+68,99785,20,1000,509,0.0,15,0,Master,Own,car,0
+18,59917,25,1000,701,0.0,7,0,Associate,Other,wedding,0
+18,98288,15,9869,665,0.617,0,19,PhD,Rent,car,1
+80,131854,6,1000,477,0.0,12,0,Master,Rent,major_purchase,0
+67,120086,0,42870,632,0.333,7,0,High School,Own,home_improvement,0
+39,39066,0,56430,476,1.0,0,7,High School,Mortgage,wedding,1
+18,20000,13,57041,850,0.0,2,0,PhD,Own,debt_consolidation,0
+63,91283,0,35375,604,0.506,8,0,Master,Own,home_improvement,0
+67,57688,0,51394,457,0.519,6,0,High School,Mortgage,car,1
+80,83018,0,53400,593,0.0,14,0,High School,Mortgage,medical,0
+71,102364,0,23562,527,0.651,8,0,Master,Mortgage,home_improvement,1
+18,91147,6,1000,793,0.797,2,0,Bachelor,Rent,wedding,1
+39,46978,32,15455,765,0.0,9,0,Master,Rent,car,0
+80,101568,0,40665,442,1.0,8,0,Bachelor,Other,wedding,1
+80,82324,0,71651,393,1.0,9,0,PhD,Other,debt_consolidation,1
+57,142387,33,1000,707,0.0,6,6,Associate,Own,vacation,0
+37,122852,6,43728,789,0.459,1,8,PhD,Own,business,0
+59,45931,0,59021,402,1.0,4,0,Associate,Other,business,1
+18,20000,15,8616,790,0.0,10,0,High School,Own,medical,0
+19,62208,3,8351,683,0.771,2,7,High School,Mortgage,wedding,1
+74,181809,24,1000,661,0.696,14,5,High School,Rent,car,1
+28,90951,10,1000,776,0.395,6,0,Bachelor,Other,car,0
+18,117901,13,1000,752,0.682,1,0,Associate,Rent,major_purchase,1
+37,78894,0,7959,567,0.862,3,0,High School,Other,car,1
+28,145167,33,1000,641,0.201,4,0,Master,Rent,home_improvement,0
+32,80404,20,1000,663,0.063,9,0,Associate,Other,vacation,0
+77,141017,0,41035,681,0.0,9,0,Associate,Rent,medical,0
+39,144221,26,15463,767,0.0,0,9,Bachelor,Mortgage,home_improvement,0
+76,46650,0,97237,377,1.0,5,0,PhD,Other,home_improvement,1
+42,38250,40,1000,709,0.0,11,0,Bachelor,Other,vacation,0
+53,44196,5,82394,726,0.0,7,2,High School,Other,major_purchase,0
+62,200000,12,1000,719,1.0,6,11,Master,Mortgage,car,1
+76,121805,0,32920,644,0.092,10,0,Master,Rent,major_purchase,0
+80,121304,0,57811,513,0.164,13,0,High School,Other,car,0
+22,48768,26,15699,765,0.0,4,0,Master,Rent,wedding,0
+45,87406,10,1000,544,0.124,10,0,Bachelor,Mortgage,wedding,0
+80,178740,0,1000,303,1.0,20,0,Bachelor,Own,home_improvement,1
+37,20000,0,96546,445,0.966,0,13,High School,Other,home_improvement,1
+67,20000,0,63671,335,1.0,8,0,Master,Mortgage,debt_consolidation,1
+80,142959,14,1000,526,0.034,14,7,Associate,Rent,vacation,0
+42,117901,26,1000,668,0.263,11,0,PhD,Other,business,0
+44,58541,0,22386,486,1.0,3,0,Associate,Rent,wedding,1
+36,145927,0,31205,782,1.0,1,7,Bachelor,Own,vacation,1
+27,46138,3,18758,766,0.272,8,0,Bachelor,Other,home_improvement,0
+67,80218,0,65763,470,1.0,4,0,Bachelor,Other,major_purchase,1
+18,44676,34,1000,701,0.0,7,0,Bachelor,Rent,home_improvement,0
+80,22531,0,86363,300,1.0,11,0,PhD,Other,major_purchase,1
+48,85405,0,11193,735,0.535,12,0,High School,Mortgage,car,0
+18,27635,26,1000,777,1.0,0,25,Bachelor,Mortgage,business,0
+34,72716,2,50591,774,0.101,4,0,Master,Own,car,0
+18,95991,40,1000,850,0.034,0,21,PhD,Mortgage,home_improvement,0
+80,20000,0,100000,363,1.0,9,0,Bachelor,Own,debt_consolidation,1
+30,157479,36,1000,850,0.0,3,0,Master,Rent,home_improvement,0
+18,40481,0,22992,653,1.0,0,15,Bachelor,Rent,wedding,1
+18,53062,11,1000,741,0.548,6,0,High School,Own,home_improvement,0
+32,62992,0,31128,576,0.631,0,14,PhD,Mortgage,wedding,1
+24,44418,0,37149,791,0.115,6,0,High School,Mortgage,car,0
+41,150766,1,32655,738,0.867,0,8,PhD,Own,debt_consolidation,1
+46,63215,5,1000,646,0.129,11,0,Bachelor,Own,vacation,0
+62,72414,0,57765,477,1.0,4,0,Bachelor,Rent,car,1
+18,20000,10,4352,754,0.0,7,0,PhD,Own,car,0
+24,70938,16,18254,815,0.044,6,1,Master,Mortgage,home_improvement,0
+80,149500,0,29060,567,0.0,7,0,Master,Own,medical,0
+18,117562,40,1000,814,0.477,0,21,Bachelor,Own,major_purchase,0
+23,33583,19,14331,741,0.0,6,1,Bachelor,Own,car,0
+80,109648,0,35106,573,0.363,13,0,High School,Rent,major_purchase,0
+76,37608,0,100000,375,0.854,3,1,Bachelor,Own,major_purchase,1
+18,92299,9,1318,810,0.836,2,0,PhD,Other,vacation,1
+80,83749,0,57159,568,0.535,12,0,Master,Other,vacation,1
+80,128171,0,84804,475,0.0,20,0,Master,Other,vacation,0
+18,101999,9,52501,850,0.864,0,7,High School,Mortgage,business,1
+18,46609,8,1000,729,0.436,8,0,Master,Mortgage,major_purchase,0
+18,27013,7,9684,850,0.606,0,0,Master,Own,home_improvement,1
+30,167092,40,1000,850,0.0,5,0,Associate,Other,major_purchase,0
+45,104096,11,1000,734,0.358,9,0,PhD,Rent,car,0
+80,101928,0,59109,398,0.839,10,0,Associate,Other,vacation,1
+18,20000,25,1000,805,0.0,10,0,Master,Other,car,0
+57,80023,0,19541,612,1.0,11,0,High School,Mortgage,vacation,1
+66,150786,5,28917,704,0.536,6,10,High School,Mortgage,business,0
+24,50124,0,30631,567,1.0,0,12,Master,Rent,home_improvement,1
+80,75783,0,87750,300,0.859,20,0,Bachelor,Mortgage,wedding,1
+63,130883,5,1000,632,0.268,9,0,Associate,Rent,vacation,0
+18,96146,29,1000,803,0.444,4,3,Master,Mortgage,medical,0
+80,96700,0,76990,439,1.0,16,0,High School,Other,business,1
+80,114686,0,32632,530,0.56,13,0,High School,Other,medical,0
+80,157981,0,49165,638,0.0,7,0,Associate,Rent,business,0
+74,124692,20,7086,620,0.0,9,10,PhD,Rent,home_improvement,0
+80,63774,0,1000,480,0.0,20,0,Master,Mortgage,major_purchase,0
+23,65089,5,42599,775,0.05,2,0,Master,Mortgage,vacation,0
+80,123590,0,81666,447,0.0,14,0,PhD,Rent,debt_consolidation,1
+59,101904,0,2052,648,0.231,10,0,Associate,Rent,car,1
+80,106217,0,33703,514,1.0,14,0,Associate,Other,wedding,1
+18,82495,17,1000,784,0.904,5,0,High School,Other,car,1
+80,98102,0,76086,383,0.756,20,0,PhD,Rent,wedding,1
+18,20000,19,23131,850,0.0,2,0,Associate,Other,business,0
+80,98331,0,57823,553,0.215,10,0,Bachelor,Own,wedding,1
+18,38595,31,1000,793,0.0,1,0,Master,Mortgage,car,0
+18,83926,22,1000,768,0.199,3,0,High School,Other,major_purchase,0
+66,74210,0,75697,417,0.101,0,9,PhD,Own,vacation,1
+76,133035,12,1000,603,0.277,11,12,High School,Rent,wedding,0
+60,95645,8,1000,532,0.604,15,0,Associate,Other,medical,1
+18,88173,40,1000,850,0.0,0,0,Associate,Rent,business,0
+70,110761,0,8786,634,0.025,12,0,Bachelor,Mortgage,wedding,0
+80,131933,0,42771,647,0.244,20,0,Master,Rent,major_purchase,0
+18,77062,40,1000,837,0.0,0,27,PhD,Own,car,0
+80,109461,17,1000,473,0.0,15,0,High School,Rent,wedding,0
+38,101788,21,1000,747,0.0,7,0,Master,Own,vacation,0
+18,50738,28,1000,796,0.0,0,0,Associate,Other,business,0
+18,51512,11,2050,721,0.743,2,11,Master,Other,medical,1
+18,69399,19,1000,685,0.883,0,18,High School,Own,wedding,1
+45,113690,7,1000,726,0.831,8,5,Master,Mortgage,car,1
+18,20000,37,2267,850,0.0,4,0,Associate,Mortgage,vacation,0
+80,128169,0,46062,664,0.0,20,0,Master,Mortgage,car,0
+33,200000,25,1000,624,1.0,0,7,PhD,Other,wedding,1
+80,90300,0,61119,396,0.684,13,0,Master,Other,home_improvement,1
+26,78078,8,1000,685,0.749,8,0,PhD,Mortgage,medical,0
+80,146580,0,45943,485,0.0,16,0,Master,Rent,major_purchase,0
+53,83689,24,1000,706,0.0,12,0,Associate,Mortgage,debt_consolidation,0
+66,93873,0,24121,520,0.815,8,0,Bachelor,Rent,business,0
+58,127232,15,1000,706,0.499,10,9,Bachelor,Mortgage,medical,0
+40,84672,27,1000,696,0.0,6,7,PhD,Rent,business,0
+25,92892,19,1000,741,0.218,5,0,PhD,Other,vacation,0
+80,162645,23,1000,513,0.172,16,0,Bachelor,Mortgage,home_improvement,0
+80,133398,0,1000,541,0.608,13,0,Associate,Mortgage,car,1
+21,113395,37,1000,763,0.0,2,0,Associate,Own,business,0
+31,85190,12,32479,816,0.0,5,0,Master,Mortgage,major_purchase,0
+42,112960,9,60007,850,0.336,5,11,PhD,Rent,vacation,0
+49,65851,5,7881,649,0.134,10,1,Associate,Own,medical,1
+80,124574,0,1000,394,1.0,17,0,High School,Mortgage,vacation,1
+53,131238,11,1000,614,0.562,9,0,Master,Mortgage,major_purchase,0
+18,20000,7,44857,850,0.025,5,0,Master,Other,car,0
+18,46380,26,18386,850,0.0,0,0,Bachelor,Own,car,0
+18,44702,34,1000,850,0.26,0,0,PhD,Rent,home_improvement,0
+60,109306,31,1000,602,0.0,12,0,Associate,Mortgage,business,0
+18,45758,34,1000,785,1.0,0,31,Associate,Other,business,1
+80,69255,0,100000,300,1.0,12,0,Master,Mortgage,car,1
+43,61297,0,56780,752,0.735,8,0,PhD,Own,car,1
+20,41424,19,31420,753,0.0,2,0,PhD,Rent,debt_consolidation,0
+18,103390,27,6206,689,0.211,0,22,PhD,Other,wedding,1
+28,74382,26,11878,796,0.0,6,5,Bachelor,Mortgage,home_improvement,0
+18,79591,29,1000,739,0.253,8,0,Associate,Rent,home_improvement,0
+18,73632,12,1000,821,0.6,0,0,PhD,Mortgage,medical,0
+18,20000,22,34261,829,0.0,5,0,Bachelor,Mortgage,wedding,0
+44,179214,25,1000,622,0.121,0,2,High School,Own,major_purchase,0
+23,133871,23,1000,790,0.886,4,8,Master,Own,debt_consolidation,1
+80,56985,0,100000,300,1.0,5,1,Associate,Mortgage,car,1
+42,46589,0,31508,632,0.428,7,7,Associate,Other,wedding,1
+18,95456,31,1000,731,0.0,3,0,Master,Own,car,0
+80,188687,13,1000,443,0.453,16,11,High School,Own,home_improvement,0
+18,73446,36,1000,621,0.0,5,0,Bachelor,Own,debt_consolidation,0
+50,75465,9,35996,736,0.0,8,0,Master,Own,home_improvement,0
+21,20000,7,30018,766,0.0,7,0,Bachelor,Rent,vacation,0
+69,200000,25,1000,616,1.0,9,9,Bachelor,Mortgage,medical,1
+18,30655,11,32942,850,0.017,0,0,Bachelor,Rent,medical,0
+80,69607,0,65359,408,0.916,13,0,High School,Rent,business,1
+37,83330,0,20982,737,0.679,7,0,High School,Mortgage,wedding,1
+18,20000,24,43617,850,0.0,5,0,Bachelor,Own,car,0
+40,73236,25,3404,717,0.0,6,0,PhD,Other,business,0
+65,133865,0,18684,727,0.196,10,0,Associate,Own,major_purchase,1
+27,113546,31,1000,665,0.0,1,0,High School,Own,wedding,0
+18,67316,7,1000,805,0.605,1,0,PhD,Own,debt_consolidation,1
+50,89910,0,16443,638,0.447,7,0,PhD,Own,business,0
+80,128413,0,59221,610,0.43,12,0,Associate,Other,home_improvement,0
+25,50592,0,14248,703,0.97,6,2,Bachelor,Rent,vacation,1
+63,141990,18,10057,740,0.0,8,0,PhD,Other,car,0
+72,81263,0,37296,539,0.668,10,0,PhD,Mortgage,home_improvement,1
+65,108309,0,45686,615,0.0,5,0,PhD,Own,home_improvement,0
+18,56363,17,1000,738,1.0,0,15,Bachelor,Other,major_purchase,1
+80,133566,0,1000,476,0.53,17,4,Bachelor,Mortgage,wedding,0
+78,136980,0,52447,525,0.381,4,0,High School,Other,vacation,0
+18,75580,29,1000,781,0.109,1,15,High School,Own,wedding,0
+53,95842,2,23553,662,0.447,7,6,PhD,Own,business,0
+59,71721,0,33799,490,0.497,5,0,Bachelor,Mortgage,medical,1
+76,118504,0,40236,593,0.0,7,0,Bachelor,Other,business,0
+18,40837,10,61926,850,0.0,0,1,Associate,Own,wedding,0
+80,107073,0,60089,477,0.217,9,0,PhD,Mortgage,business,0
+66,60122,0,50354,462,1.0,8,0,High School,Other,home_improvement,1
+56,103877,0,10231,580,1.0,8,0,Associate,Other,business,1
+18,72577,21,1000,691,0.383,0,18,Bachelor,Mortgage,business,1
+18,20000,0,11057,505,1.0,0,19,High School,Other,wedding,1
+18,20000,36,1000,732,0.0,10,0,PhD,Other,home_improvement,0
+29,20000,0,64993,300,1.0,0,7,Bachelor,Own,vacation,1
+27,49541,0,8809,602,1.0,4,1,PhD,Own,debt_consolidation,1
+18,44933,40,1000,799,0.241,0,22,Associate,Own,home_improvement,1
+80,164726,0,56037,688,0.0,18,0,Associate,Mortgage,debt_consolidation,1
+18,20000,0,34764,850,0.313,1,0,Associate,Rent,wedding,0
+72,57887,0,69811,337,1.0,3,0,Master,Other,home_improvement,1
+18,20000,10,72757,850,0.0,0,0,PhD,Mortgage,major_purchase,0
+61,166237,19,1000,665,0.394,7,7,Associate,Rent,medical,0
+51,121036,5,1000,626,0.917,11,0,Associate,Rent,major_purchase,1
+80,143935,0,48852,630,0.0,14,0,PhD,Mortgage,major_purchase,0
+18,99641,11,1000,661,0.977,0,0,Associate,Rent,wedding,1
+80,57266,0,93263,300,0.565,20,0,PhD,Own,car,1
+56,77600,0,100000,850,0.0,8,10,Bachelor,Mortgage,business,0
+80,153336,0,31470,687,0.0,20,0,PhD,Other,medical,0
+78,96797,16,1000,474,0.0,18,0,PhD,Own,car,0
+18,51411,29,10673,850,0.0,0,0,Master,Other,major_purchase,0
+18,20000,24,31253,850,0.0,10,0,Bachelor,Rent,major_purchase,0
+46,152698,25,1000,639,0.0,1,6,Master,Own,car,0
+57,56293,0,47810,462,1.0,4,9,Associate,Other,car,1
+60,125439,8,1000,614,0.649,9,5,PhD,Mortgage,debt_consolidation,0
+33,89837,5,25133,631,0.188,0,7,Bachelor,Rent,medical,0
+20,75333,9,31995,850,0.427,7,0,Master,Other,business,0
+23,73813,30,39338,850,0.0,6,4,PhD,Rent,car,0
+43,20000,10,9861,651,0.0,14,0,High School,Other,car,0
+80,129229,0,20057,648,0.0,18,0,Master,Mortgage,debt_consolidation,0
+53,117057,0,20000,658,1.0,6,9,Bachelor,Own,medical,1
+80,109899,0,41564,465,0.361,17,0,Master,Other,medical,1
+18,37039,25,2746,747,0.0,4,0,Master,Rent,vacation,0
+28,32331,17,21031,760,0.0,8,0,Master,Mortgage,home_improvement,0
+50,159283,21,13866,734,0.0,1,2,Associate,Own,home_improvement,0
+28,40579,0,7600,603,1.0,5,14,High School,Rent,major_purchase,1
+18,68885,12,1000,740,0.278,2,0,Bachelor,Mortgage,wedding,0
+39,112728,15,1000,741,0.179,7,0,Bachelor,Rent,wedding,0
+80,81163,0,80604,433,1.0,16,0,Bachelor,Mortgage,medical,1
+33,69373,18,15681,763,0.0,6,1,PhD,Own,business,0
+50,111220,3,4407,653,0.319,6,0,Bachelor,Own,home_improvement,0
+22,48650,16,1000,779,0.0,9,0,Bachelor,Rent,vacation,0
+36,112813,0,3938,677,0.883,3,0,High School,Mortgage,business,1
+54,91515,19,1000,590,0.0,14,0,PhD,Other,wedding,0
+26,126536,18,1000,711,1.0,6,0,PhD,Own,car,1
+43,69453,0,74473,767,0.257,5,9,Master,Other,car,0
+80,99994,0,42563,459,0.186,7,0,Associate,Other,home_improvement,0
+18,20000,0,25061,506,1.0,0,18,PhD,Rent,wedding,1
+49,106507,0,26648,679,0.584,6,0,PhD,Rent,wedding,1
+67,163335,17,1000,614,0.0,4,6,High School,Rent,business,0
+60,70404,0,36043,557,0.94,9,0,Bachelor,Mortgage,major_purchase,1
+69,153491,0,1000,553,0.956,7,6,PhD,Own,vacation,0
+80,25588,0,100000,300,1.0,19,0,PhD,Own,home_improvement,1
+18,100145,40,1000,850,0.0,0,25,Associate,Other,major_purchase,0
+63,29959,0,57789,511,1.0,11,0,High School,Rent,wedding,1
+18,20000,40,1000,844,0.0,7,0,Associate,Mortgage,home_improvement,0
+41,43833,0,1000,627,0.0,10,0,PhD,Own,medical,0
+80,93571,0,30854,513,0.965,16,0,PhD,Mortgage,vacation,0
+63,54285,0,74882,358,1.0,0,5,High School,Rent,home_improvement,1
+80,28799,0,89789,356,0.884,11,0,Master,Rent,major_purchase,1
+80,59813,0,75905,370,0.508,12,0,Master,Own,wedding,1
+43,55995,5,6620,564,0.454,6,14,PhD,Other,major_purchase,1
+56,119433,13,40074,741,0.0,5,1,PhD,Other,car,0
+55,49931,0,31889,729,0.37,14,0,Associate,Rent,car,0
+37,81388,20,1000,723,0.0,9,0,Associate,Rent,major_purchase,0
+40,200000,26,1000,701,1.0,3,6,Associate,Other,car,1
+80,72264,0,88391,497,0.0,11,0,Bachelor,Rent,car,1
+80,91999,0,97243,307,0.788,20,0,PhD,Own,major_purchase,1
+50,79000,0,68053,503,0.257,0,13,Bachelor,Own,business,1
+59,39769,0,40924,430,1.0,7,0,Master,Mortgage,major_purchase,1
+80,99579,0,67454,439,0.138,5,2,PhD,Other,major_purchase,0
+53,85697,0,21790,517,1.0,5,0,PhD,Rent,business,1
+71,130054,12,1000,606,0.216,10,8,High School,Mortgage,vacation,0
+36,44865,14,1000,686,0.0,12,0,PhD,Own,major_purchase,0
+80,104591,0,6698,572,0.639,17,0,Master,Other,major_purchase,1
+80,96479,0,94812,332,0.6,8,0,PhD,Own,wedding,0
+68,20000,0,94648,361,1.0,4,2,Bachelor,Rent,business,1
+80,78286,0,89954,433,0.76,4,0,PhD,Mortgage,debt_consolidation,1
+18,20000,0,1000,497,1.0,0,11,Bachelor,Rent,wedding,1
+18,63621,30,2175,825,0.0,0,0,Associate,Rent,debt_consolidation,0
+78,66871,0,33335,518,1.0,14,0,Associate,Other,business,1
+68,162895,12,23478,733,0.211,7,7,High School,Other,major_purchase,0
+18,168459,30,1000,796,0.685,0,3,PhD,Rent,medical,1
+80,163386,5,14271,732,0.0,20,0,Associate,Other,car,0
+18,66840,32,1000,850,0.0,0,0,Associate,Mortgage,business,0
+33,67348,22,1000,739,0.0,11,0,High School,Mortgage,car,0
+80,144934,0,63681,643,0.0,15,0,High School,Rent,business,0
+80,147542,0,60957,532,0.0,16,0,PhD,Mortgage,car,1
+23,63932,0,100000,843,0.971,0,0,Bachelor,Rent,business,1
+80,111857,0,77460,520,0.0,8,0,PhD,Mortgage,business,0
+59,46618,0,67093,535,0.558,6,0,Bachelor,Own,major_purchase,1
+18,20000,23,25460,850,0.0,0,0,High School,Rent,home_improvement,0
+59,56165,26,1000,672,0.0,16,0,Master,Mortgage,debt_consolidation,0
+40,40397,0,56172,779,0.129,10,0,PhD,Own,medical,0
+18,64080,12,4255,677,0.695,0,16,Master,Rent,vacation,1
+24,92905,0,1000,651,1.0,5,0,Bachelor,Mortgage,debt_consolidation,0
+25,32497,0,31040,530,1.0,0,8,PhD,Mortgage,vacation,1
+80,63212,0,50684,401,1.0,12,0,Master,Own,medical,1
+80,150017,0,49868,524,0.0,6,0,Master,Other,vacation,0
+25,21877,0,19930,435,1.0,0,9,PhD,Other,major_purchase,1
+67,200000,16,1000,675,1.0,5,11,Master,Own,business,0
+18,60970,1,1000,850,1.0,2,0,PhD,Own,business,0
+52,96035,1,23250,642,0.051,6,0,Master,Rent,home_improvement,1
+80,91588,0,100000,480,0.0,14,0,High School,Other,home_improvement,1
+41,70961,6,63274,832,0.0,7,0,PhD,Rent,vacation,0
+75,113894,0,25145,645,0.025,12,0,High School,Mortgage,wedding,0
+19,79010,12,20262,806,0.0,2,0,Associate,Own,debt_consolidation,0
+71,36622,0,50451,376,1.0,9,0,High School,Rent,business,1
+80,109941,0,65244,585,0.735,15,0,Master,Own,medical,0
+68,51814,0,75722,470,0.111,4,10,Bachelor,Rent,car,1
+53,30089,0,55376,394,1.0,4,0,High School,Mortgage,home_improvement,1
+34,106569,12,9724,642,0.162,0,7,High School,Mortgage,medical,0
+18,68277,28,32882,850,0.0,0,1,High School,Other,vacation,0
+19,96415,30,1000,612,0.333,7,0,Bachelor,Other,debt_consolidation,0
+61,97760,0,35587,565,0.673,6,0,Bachelor,Mortgage,business,1
+18,54698,23,1000,791,0.114,9,0,High School,Rent,vacation,0
+25,26544,17,1000,682,0.0,8,0,Associate,Own,wedding,0
+78,119998,3,37127,657,0.0,10,0,Bachelor,Mortgage,home_improvement,0
+18,93994,22,1000,774,0.393,0,10,Bachelor,Mortgage,business,0
+73,97242,0,8761,578,0.887,14,0,Bachelor,Rent,home_improvement,1
+18,20000,16,7235,850,0.0,0,0,PhD,Mortgage,medical,0
+80,75225,0,82976,418,0.814,18,0,High School,Mortgage,medical,1
+80,80419,0,52385,453,0.443,14,0,Associate,Rent,wedding,0
+18,23393,38,1000,845,0.0,8,0,Bachelor,Mortgage,car,0
+35,31938,30,1000,766,0.0,12,0,PhD,Other,major_purchase,0
+47,148070,4,23528,724,0.789,2,9,Master,Other,major_purchase,1
+56,63214,0,31844,461,1.0,5,0,Master,Other,medical,1
+33,72249,0,18399,733,0.568,7,0,Bachelor,Other,medical,0
+63,172920,17,1000,716,0.622,8,10,Associate,Mortgage,debt_consolidation,1
+22,118776,32,1000,782,0.0,2,0,Associate,Own,wedding,0
+18,77899,14,1000,850,0.553,5,0,High School,Other,vacation,0
+50,130209,24,1000,606,0.518,10,3,Bachelor,Other,major_purchase,0
+25,59123,27,1000,743,0.0,9,0,Master,Mortgage,wedding,0
+47,46549,3,22811,719,0.0,12,0,High School,Mortgage,vacation,0
+58,160895,18,1000,839,0.0,11,0,Associate,Rent,vacation,0
+18,64365,32,1000,817,0.773,0,12,High School,Other,vacation,1
+28,95967,0,31379,657,0.786,0,5,Master,Rent,home_improvement,1
+63,143883,25,1000,713,0.067,11,6,Associate,Other,major_purchase,0
+32,20000,0,57425,329,1.0,0,16,PhD,Own,car,1
+57,57302,0,25797,578,1.0,11,0,PhD,Mortgage,debt_consolidation,1
+18,20000,26,1000,768,0.0,8,0,Bachelor,Mortgage,vacation,0
+18,87272,26,5492,806,0.0,2,1,High School,Rent,major_purchase,0
+18,54010,20,1000,770,1.0,0,21,Associate,Rent,major_purchase,0
+18,30838,18,1000,850,0.267,1,0,Bachelor,Mortgage,medical,0
+26,114329,13,1000,763,0.59,2,4,High School,Mortgage,major_purchase,0
+46,161854,7,5839,710,0.669,2,3,Master,Mortgage,wedding,1
+36,102329,28,1000,735,0.0,9,0,Associate,Other,medical,0
+36,81087,0,62175,531,0.172,0,15,High School,Other,car,1
+41,77077,0,10075,696,1.0,10,0,Associate,Own,business,1
+18,72869,0,1000,698,1.0,3,0,High School,Other,major_purchase,1
+18,71140,20,1000,800,0.119,6,0,Master,Mortgage,vacation,0
+80,170910,0,46517,648,0.0,10,0,Associate,Other,car,0
+56,50138,0,66614,517,1.0,5,0,PhD,Rent,car,1
+63,39642,6,51579,682,0.0,12,0,Master,Mortgage,business,0
+19,191376,28,1000,796,0.58,0,9,High School,Other,home_improvement,0
+18,45461,16,1000,724,0.438,3,0,Associate,Mortgage,home_improvement,0
+18,20000,0,1000,611,1.0,0,18,Master,Rent,car,1
+46,86685,0,14839,622,0.505,6,0,High School,Rent,vacation,0
+18,79514,4,1000,776,0.743,4,0,PhD,Other,wedding,1
+18,96195,11,1000,760,0.773,2,2,PhD,Mortgage,business,0
+18,87559,15,8388,795,0.293,0,1,High School,Own,business,0
+33,136317,9,1000,714,0.594,1,2,PhD,Rent,wedding,0
+63,143753,0,6256,594,0.66,6,0,Master,Own,debt_consolidation,1
+80,181785,14,1000,607,0.579,12,6,PhD,Other,home_improvement,0
+73,87976,0,67083,452,0.903,4,0,Bachelor,Rent,business,1
+64,75306,0,47475,387,1.0,3,0,PhD,Own,wedding,1
+48,52834,5,47806,778,0.0,11,2,Bachelor,Rent,home_improvement,0
+51,103838,16,43627,678,0.0,2,6,Associate,Own,car,0
+18,47335,11,34626,826,0.0,3,0,Master,Mortgage,medical,0
+41,39842,0,100000,850,0.0,6,2,Associate,Mortgage,car,0
+80,199595,5,14787,608,0.735,6,15,Associate,Other,medical,0
+80,99862,0,47793,582,0.571,16,0,PhD,Rent,business,0
+23,96439,18,1000,665,0.473,7,0,PhD,Own,vacation,0
+56,122865,0,9190,639,0.488,6,0,PhD,Other,wedding,0
+18,94686,34,1995,850,0.0,0,0,Associate,Mortgage,vacation,0
+64,147232,14,19232,791,0.0,10,0,Master,Mortgage,wedding,0
+39,147298,15,1000,721,0.285,3,0,Master,Other,major_purchase,0
+25,31862,0,32352,449,0.646,0,18,Bachelor,Rent,business,1
+18,20000,0,46212,539,1.0,0,14,High School,Own,wedding,1
+18,44736,0,16938,578,1.0,0,8,Master,Mortgage,debt_consolidation,1
+18,133327,31,1000,698,0.577,0,4,PhD,Other,debt_consolidation,0
+23,121244,14,1000,748,0.994,6,0,Bachelor,Mortgage,home_improvement,0
+80,43580,0,53541,361,1.0,11,0,PhD,Mortgage,business,1
+70,79563,0,68430,415,0.733,1,2,Associate,Own,debt_consolidation,1
+80,102745,0,73699,458,0.362,16,0,Associate,Rent,home_improvement,1
+32,64819,0,27052,594,1.0,2,0,PhD,Rent,major_purchase,1
+18,35232,1,25552,794,0.268,7,0,Master,Own,business,0
+18,88481,27,1000,697,0.524,7,0,High School,Other,business,0
+56,73362,0,41314,579,0.467,5,13,PhD,Other,debt_consolidation,1
+80,108930,0,53649,502,0.31,8,0,Master,Rent,car,0
+80,200000,16,1000,562,0.404,5,3,Bachelor,Mortgage,medical,0
+18,137523,40,1000,850,0.0,0,10,PhD,Mortgage,major_purchase,0
+71,50464,0,92853,458,0.282,4,1,Bachelor,Other,vacation,1
+62,142866,1,31546,740,0.653,7,6,Master,Own,major_purchase,0
+25,89696,0,22560,677,0.929,0,0,Master,Mortgage,vacation,1
+72,39853,0,71666,400,1.0,7,0,Master,Other,home_improvement,1
+33,52905,0,13633,632,0.885,6,1,Master,Own,wedding,1
+51,34339,0,54822,539,0.468,5,7,Associate,Rent,vacation,1
+18,51277,0,13061,584,1.0,0,12,Master,Own,home_improvement,1
+69,109155,0,25871,650,0.251,11,0,Associate,Rent,wedding,1
+62,143811,17,1000,526,0.21,8,0,High School,Other,major_purchase,0
+18,20000,9,30731,807,0.0,1,0,Associate,Own,debt_consolidation,0
+80,179564,20,1000,502,0.0,14,13,Bachelor,Other,car,0
+47,60328,0,47809,714,0.0,8,0,High School,Rent,vacation,0
+18,34957,11,22176,850,0.0,0,0,Bachelor,Mortgage,medical,0
+74,66556,0,54303,547,0.776,12,0,PhD,Mortgage,car,1
+58,167087,11,12715,703,0.556,4,11,PhD,Rent,home_improvement,0
+53,168024,17,1000,623,0.808,7,2,Associate,Mortgage,home_improvement,1
+43,139703,17,9122,694,0.0,0,4,Bachelor,Mortgage,debt_consolidation,1
+18,103233,18,48813,850,0.0,0,1,PhD,Own,medical,0
+78,104950,14,17958,704,0.0,15,0,PhD,Own,business,0
+22,78035,39,1000,673,0.0,8,0,PhD,Mortgage,home_improvement,0
+80,78111,0,100000,344,0.018,20,0,High School,Own,major_purchase,1
+29,100095,0,94965,820,0.732,0,6,High School,Rent,medical,1
+61,106918,0,70040,464,0.46,0,6,Master,Own,business,0
+18,48214,0,44296,581,0.642,0,22,Bachelor,Own,debt_consolidation,1
+45,102632,0,4578,626,0.509,5,0,PhD,Own,debt_consolidation,1
+38,96250,19,1000,587,0.352,12,0,Bachelor,Other,wedding,0
+54,98389,11,1000,578,0.19,12,0,Master,Rent,home_improvement,0
+69,71544,0,27303,665,0.112,15,0,Associate,Mortgage,car,0
+32,42020,3,15949,656,0.0,6,0,Master,Mortgage,major_purchase,0
+80,100373,0,63667,540,0.54,10,0,PhD,Other,business,1
+80,98885,0,78101,344,1.0,6,0,Associate,Own,home_improvement,1
+71,94943,25,1000,614,0.0,14,2,Associate,Rent,medical,0
+23,83915,9,1000,646,0.553,1,6,Master,Rent,car,1
+18,45745,5,74398,850,0.404,0,4,PhD,Mortgage,home_improvement,0
+26,91118,4,12680,769,0.609,4,0,Associate,Other,home_improvement,1
+36,120479,9,12832,725,0.326,2,1,Master,Other,home_improvement,1
+18,48675,27,22252,850,0.0,2,0,Master,Other,wedding,0
+69,139186,12,12319,687,0.0,9,0,PhD,Other,wedding,0
+18,20000,35,1000,850,0.0,4,0,Master,Rent,vacation,0
+18,53460,35,1000,850,0.0,1,0,Master,Own,major_purchase,0
+74,150660,16,1000,630,0.184,10,8,Master,Mortgage,car,0
+50,142041,28,6391,751,0.0,4,9,Bachelor,Rent,major_purchase,0
+28,131642,40,1000,850,0.0,5,20,High School,Other,major_purchase,0
+24,130936,40,1000,785,0.0,0,12,Bachelor,Other,home_improvement,0
+18,20000,0,44133,593,1.0,0,14,Master,Mortgage,debt_consolidation,1
+41,118779,9,3868,764,0.247,6,0,High School,Own,major_purchase,0
+80,102906,0,49612,482,0.227,10,0,Associate,Own,business,0
+80,94873,0,40723,530,0.0,16,0,Bachelor,Own,wedding,1
+80,104479,0,77321,467,0.0,12,0,Bachelor,Other,medical,1
+80,98600,0,65859,460,1.0,9,0,Bachelor,Rent,major_purchase,1
+75,64185,0,31298,569,0.775,15,0,PhD,Rent,car,1
+30,20000,0,87141,300,1.0,0,27,Master,Own,business,1
+80,73486,0,54403,416,1.0,20,0,Associate,Mortgage,medical,1
+18,68992,31,1000,842,0.287,10,4,Associate,Own,home_improvement,0
+71,96375,0,84859,511,0.197,1,4,Associate,Own,home_improvement,0
+33,89289,23,3516,772,0.0,6,3,Master,Mortgage,major_purchase,0
+80,86004,0,72695,455,0.203,6,2,High School,Own,home_improvement,0
+34,105677,24,1000,764,0.053,8,0,Bachelor,Mortgage,car,0
+18,100235,34,48131,850,0.0,0,6,Master,Mortgage,wedding,0
+80,137256,0,60800,485,0.009,10,0,Bachelor,Rent,car,1
+49,127494,22,32297,792,0.0,4,9,Master,Mortgage,wedding,0
+77,66106,0,62347,516,0.506,10,0,Bachelor,Own,major_purchase,1
+44,66573,10,1000,672,0.0,11,0,Master,Mortgage,medical,0
+44,20000,0,60673,367,1.0,2,1,High School,Own,vacation,1
+80,147974,0,25845,674,0.0,19,0,Associate,Mortgage,home_improvement,1
+80,37310,0,92031,333,0.858,12,0,Bachelor,Rent,medical,1
+18,115490,25,1000,850,1.0,0,3,Master,Own,vacation,1
+59,93347,0,22534,513,1.0,6,0,High School,Own,debt_consolidation,0
+43,82566,0,78280,536,0.0,0,15,High School,Own,vacation,0
+53,54514,37,1000,532,0.0,18,0,Associate,Mortgage,medical,0
+21,194689,16,1000,797,1.0,0,11,Master,Rent,medical,0
+41,47907,6,34947,757,0.0,10,0,Bachelor,Rent,car,0
+18,33609,0,1000,620,1.0,3,3,PhD,Rent,vacation,1
+80,108027,0,71684,478,0.46,14,0,High School,Rent,debt_consolidation,0
+18,76536,25,1000,713,0.929,0,17,High School,Mortgage,medical,1
+69,85431,0,46445,496,0.173,5,0,Associate,Own,business,1
+18,54884,13,16159,800,0.0,0,0,Master,Other,car,0
+18,85673,20,1000,745,0.948,0,10,PhD,Rent,home_improvement,0
+60,63578,0,41998,390,1.0,3,0,PhD,Other,medical,1
+80,126621,0,18813,657,0.05,14,0,PhD,Mortgage,business,0
+65,149657,21,1000,660,0.0,8,4,Master,Mortgage,home_improvement,0
+33,150702,6,52426,820,0.864,0,16,Bachelor,Other,debt_consolidation,1
+52,48075,25,1000,596,0.0,14,0,High School,Own,wedding,0
+18,20000,21,40185,850,0.0,0,0,Master,Other,wedding,0
+31,77486,0,25665,617,1.0,1,0,PhD,Mortgage,major_purchase,1
+50,31069,0,62323,329,1.0,0,2,High School,Other,car,1
+18,20000,16,41175,850,0.0,3,0,High School,Rent,car,0
+18,86771,32,1000,772,0.0,3,0,PhD,Rent,wedding,0
+80,111788,0,88072,300,0.896,18,0,PhD,Own,major_purchase,0
+50,111957,6,43177,743,0.342,5,11,High School,Other,business,0
+80,103781,0,97028,399,0.482,10,0,Associate,Other,home_improvement,1
+80,181266,0,40315,608,1.0,13,17,High School,Other,debt_consolidation,1
+30,29827,23,1000,742,0.0,10,0,Bachelor,Other,home_improvement,0
+24,87208,11,1000,744,0.664,6,0,Bachelor,Own,debt_consolidation,0
+80,155006,12,1000,573,0.768,18,0,Associate,Mortgage,vacation,1
+18,85165,22,1000,825,0.112,4,0,Master,Own,medical,0
+18,20000,23,18454,850,0.0,4,0,High School,Mortgage,debt_consolidation,0
+58,153900,21,1000,688,0.096,6,7,Bachelor,Mortgage,debt_consolidation,0
+18,20000,0,45851,468,1.0,0,12,High School,Mortgage,car,1
+18,118298,40,1000,694,0.0,0,0,Associate,Other,vacation,0
+18,112784,30,1000,820,0.5,1,4,PhD,Own,car,0
+80,94825,0,44863,541,0.341,14,0,Associate,Mortgage,car,0
+33,146495,8,1000,742,0.68,1,0,Associate,Rent,car,1
+51,106614,15,5114,717,0.0,8,0,Associate,Mortgage,home_improvement,1
+18,63110,0,9855,759,0.801,0,0,Bachelor,Own,major_purchase,1
+47,80402,0,57714,628,0.198,1,13,Associate,Other,vacation,1
+57,105130,12,12039,684,0.0,8,0,PhD,Rent,home_improvement,0
+36,139681,3,1000,808,1.0,6,0,PhD,Mortgage,vacation,1
+80,124920,22,1000,564,0.0,15,0,PhD,Other,home_improvement,0
+18,46178,23,37863,800,0.0,0,0,Master,Own,medical,0
+80,43848,0,82921,408,0.983,12,0,Associate,Own,major_purchase,1
+51,54039,0,40188,509,0.474,3,11,PhD,Rent,wedding,1
+68,120697,0,32359,621,0.701,8,0,Master,Rent,car,1
+22,88210,28,1000,736,0.462,10,0,Associate,Mortgage,home_improvement,0
+49,39334,15,1000,542,0.0,14,0,Associate,Other,vacation,0
+28,64040,9,1000,651,0.405,8,0,High School,Other,car,0
+18,33990,0,36315,585,0.997,0,19,Associate,Own,medical,1
+80,107322,0,54964,504,0.971,8,0,High School,Own,debt_consolidation,1
+18,82440,24,22329,850,0.048,0,6,Bachelor,Mortgage,medical,0
+40,146161,22,1000,734,0.554,5,8,Bachelor,Mortgage,home_improvement,0
+44,83829,0,26340,593,0.246,2,1,Master,Own,car,0
+18,101187,17,1000,786,0.83,0,0,High School,Own,home_improvement,1
+80,129889,0,48289,592,0.0,15,0,Bachelor,Other,business,0
+53,94283,0,29427,515,0.223,1,10,Bachelor,Other,debt_consolidation,0
+31,42509,0,47776,571,0.557,0,10,Bachelor,Other,vacation,1
+62,109234,0,48215,556,0.613,3,1,Associate,Mortgage,major_purchase,0
+80,56496,8,19066,639,0.0,20,0,High School,Other,home_improvement,0
+64,20000,0,100000,300,1.0,0,9,Bachelor,Rent,debt_consolidation,1
+80,192309,3,1000,461,0.378,17,10,High School,Rent,major_purchase,0
+75,134107,0,18329,641,0.0,10,0,PhD,Other,debt_consolidation,0
+18,90489,8,1000,767,0.651,5,0,PhD,Other,major_purchase,0
+18,114528,40,1000,850,0.0,0,31,Associate,Own,business,0
+42,124774,0,1000,780,1.0,12,0,PhD,Own,wedding,0
+24,72088,18,1828,766,0.0,5,0,Master,Mortgage,vacation,0
+24,22362,0,33342,574,0.91,1,15,High School,Rent,major_purchase,1
+18,38869,28,1000,799,0.0,6,0,Bachelor,Rent,wedding,0
+18,74732,33,1000,746,0.553,3,0,Master,Mortgage,major_purchase,0
+58,120311,17,35384,669,0.0,3,5,Master,Other,vacation,0
+18,20000,32,1000,786,0.0,4,0,PhD,Other,home_improvement,0
+18,90925,18,56390,850,0.023,0,3,High School,Mortgage,debt_consolidation,0
+53,27121,0,90724,360,0.79,0,13,Bachelor,Rent,wedding,1
+80,173450,8,1000,508,0.765,15,1,Master,Rent,car,0
+18,78105,17,1395,807,0.087,1,0,Associate,Other,vacation,0
+68,90837,0,38174,548,0.402,8,0,Bachelor,Own,home_improvement,0
+50,66648,15,56367,757,0.0,7,5,PhD,Mortgage,vacation,0
+80,117331,0,66238,449,1.0,13,0,High School,Mortgage,home_improvement,1
+80,100936,0,84158,300,0.873,20,0,Associate,Other,business,1
+18,34852,17,1000,725,0.0,7,0,Bachelor,Mortgage,business,0
+25,55076,3,14967,722,0.661,5,6,Bachelor,Rent,wedding,1
+18,76903,19,1000,836,0.685,0,7,Master,Other,debt_consolidation,1
+68,44293,0,57898,343,1.0,5,0,Bachelor,Rent,business,1
+37,20000,13,1000,565,0.0,14,0,High School,Own,major_purchase,0
+40,79073,25,1000,708,0.0,10,0,High School,Mortgage,wedding,0
+18,78568,40,1000,826,0.0,3,0,Bachelor,Mortgage,major_purchase,0
+24,45035,0,37458,510,1.0,0,19,Master,Rent,vacation,1
+38,45850,0,1000,631,1.0,14,0,Associate,Other,home_improvement,1
+56,92500,0,40062,622,0.274,5,2,Associate,Other,home_improvement,1
+18,50105,40,1000,850,0.0,0,0,Master,Mortgage,medical,0
+18,32107,14,1000,681,1.0,0,26,PhD,Rent,debt_consolidation,1
+80,79009,0,83435,453,0.675,8,0,High School,Own,debt_consolidation,1
+80,20000,0,100000,300,1.0,4,0,PhD,Rent,debt_consolidation,1
+18,78878,19,1000,749,0.083,4,0,Master,Other,medical,0
+48,161441,4,36822,779,0.733,2,8,PhD,Mortgage,debt_consolidation,1
+18,21534,26,1000,789,0.0,2,0,Master,Mortgage,business,0
+62,130440,18,1000,554,0.79,14,1,Associate,Mortgage,wedding,1
+80,135433,0,25220,556,0.181,18,0,Associate,Own,car,0
+51,64207,0,40359,458,1.0,3,0,PhD,Own,major_purchase,1
+44,100132,34,1000,713,0.0,7,4,PhD,Other,major_purchase,0
+22,78382,15,1000,759,0.452,6,0,High School,Rent,debt_consolidation,0
+68,35656,0,56792,489,0.853,10,0,Associate,Rent,car,1
+80,84135,0,64442,504,0.535,16,0,High School,Rent,medical,0
+69,76044,13,60360,729,0.0,11,4,PhD,Own,wedding,0
+80,116530,0,43514,563,0.284,11,0,Master,Mortgage,medical,0
+18,96834,27,1000,811,0.64,0,10,Associate,Other,car,0
+43,103307,11,1000,645,0.514,7,1,Master,Other,wedding,0
+18,71652,35,1000,828,0.452,1,0,High School,Own,vacation,0
+18,28829,0,27059,556,1.0,0,19,High School,Own,home_improvement,1
+80,94635,0,100000,300,0.697,9,0,Bachelor,Mortgage,wedding,1
+80,120634,0,100000,300,0.69,16,0,Associate,Mortgage,home_improvement,1
+32,57946,16,1000,738,0.0,9,0,Associate,Own,debt_consolidation,0
+29,151219,40,1000,850,0.0,11,0,High School,Other,major_purchase,0
+18,59050,17,15891,850,0.372,0,3,Master,Mortgage,medical,0
+59,138623,17,8901,720,0.0,7,0,Associate,Mortgage,debt_consolidation,0
+18,80829,5,1000,733,0.904,0,2,High School,Other,car,1
+60,66393,0,66535,506,0.32,2,6,Bachelor,Mortgage,home_improvement,1
+80,104532,0,72016,459,0.0,19,0,PhD,Other,business,1
+18,35742,20,1000,804,0.0,3,0,Associate,Rent,vacation,0
+43,125941,18,1000,690,0.282,5,4,PhD,Mortgage,vacation,0
+36,33050,0,37181,572,1.0,6,0,Master,Mortgage,wedding,1
+80,86955,0,76103,305,0.844,8,0,Bachelor,Rent,home_improvement,1
+18,94260,31,52006,850,0.0,0,11,Associate,Other,business,0
+18,106840,23,17168,850,0.126,0,0,PhD,Mortgage,debt_consolidation,0
+18,28445,35,28038,850,0.0,0,0,PhD,Rent,wedding,0
+80,20000,0,100000,300,0.956,10,0,High School,Other,medical,1
+80,134540,0,73188,487,0.0,19,0,PhD,Mortgage,vacation,0
+18,56902,0,19891,794,1.0,6,3,Master,Own,vacation,0
+80,38749,0,100000,328,0.75,9,0,PhD,Rent,medical,1
+18,94443,24,1000,850,0.366,0,0,Master,Other,business,0
+80,59269,0,55720,485,0.505,13,0,Master,Own,wedding,1
+18,55499,13,34291,850,0.0,0,0,High School,Other,business,0
+80,75604,0,38088,430,1.0,17,0,Bachelor,Own,medical,1
+63,52773,0,28556,549,0.468,11,0,Master,Own,medical,1
+38,46815,0,51989,396,1.0,0,14,PhD,Rent,major_purchase,1
+39,73377,31,35004,742,0.0,3,4,PhD,Rent,debt_consolidation,0
+80,149295,15,34554,655,0.0,8,0,Master,Own,car,0
+80,154907,0,68326,516,0.0,5,0,PhD,Rent,debt_consolidation,0
+18,111024,11,1000,700,0.855,3,0,Associate,Other,medical,1
+18,29214,6,60805,826,0.0,0,0,High School,Mortgage,wedding,0
+34,115281,15,1000,701,0.637,8,0,PhD,Other,debt_consolidation,1
+30,116773,7,22128,838,0.695,4,1,High School,Own,wedding,0
+72,20000,0,95115,391,0.773,7,4,Master,Other,debt_consolidation,1
+80,116680,0,83367,484,0.0,11,0,Master,Own,car,0
+37,89286,14,32465,777,0.0,5,5,Master,Other,vacation,0
+51,101776,4,21145,676,0.063,6,0,High School,Other,home_improvement,1
+58,132329,22,27681,691,0.0,3,11,PhD,Rent,medical,0
+80,155001,0,53408,599,0.0,6,0,Associate,Own,medical,0
+55,60069,27,1000,641,0.0,15,0,High School,Own,car,0
+18,25804,15,35619,850,0.0,2,0,Associate,Mortgage,business,0
+63,60957,0,41329,468,0.662,6,4,PhD,Other,debt_consolidation,1
+18,27912,18,24039,850,0.0,0,0,PhD,Other,major_purchase,0
+67,86597,0,50185,531,0.062,5,2,High School,Mortgage,vacation,0
+37,85540,0,20158,552,1.0,0,0,Bachelor,Own,home_improvement,1
+49,104974,0,1000,721,0.502,12,0,Associate,Other,debt_consolidation,0
+80,164583,8,5003,595,0.286,14,10,Master,Mortgage,medical,0
+80,77885,0,71745,549,0.0,20,0,Associate,Mortgage,car,0
+76,20393,0,16448,556,0.0,19,0,PhD,Mortgage,wedding,0
+80,127072,0,64402,438,0.731,11,0,PhD,Other,business,1
+56,115508,17,19025,745,0.0,8,3,High School,Own,home_improvement,0
+39,96462,1,1000,669,0.815,6,1,Bachelor,Own,home_improvement,1
+18,23596,0,1000,545,1.0,1,19,Master,Mortgage,major_purchase,1
+57,154467,14,21469,783,0.503,6,12,Associate,Mortgage,car,0
+18,20000,17,1000,749,0.0,8,0,Bachelor,Own,home_improvement,0
+37,168651,35,1000,850,0.0,4,0,Master,Mortgage,debt_consolidation,0
+35,73872,5,12574,622,0.419,3,9,PhD,Mortgage,car,1
+43,93471,28,26128,850,0.0,10,0,PhD,Own,major_purchase,0
+80,148769,13,62834,719,0.0,7,5,High School,Other,medical,0
+26,56009,0,29671,428,1.0,0,19,High School,Mortgage,vacation,1
+30,53008,9,29706,792,0.0,8,0,Associate,Other,vacation,0
+32,64243,27,1000,724,0.0,8,0,Bachelor,Mortgage,wedding,0
+78,96631,20,5145,545,0.0,10,0,Bachelor,Mortgage,car,0
+18,67907,40,1000,760,0.0,4,0,Master,Mortgage,wedding,0
+18,29137,5,10678,850,0.787,0,0,Associate,Rent,wedding,1
+80,105152,0,68543,448,0.89,11,0,High School,Other,business,0
+18,20000,0,54865,527,1.0,0,34,Associate,Other,vacation,1
+30,20000,40,1000,658,0.0,17,0,PhD,Mortgage,medical,0
+80,59438,0,82925,387,0.897,13,0,High School,Own,home_improvement,1
+80,95306,0,82092,379,0.379,12,0,Bachelor,Mortgage,medical,0
+56,145118,16,1000,591,0.155,8,0,High School,Rent,major_purchase,0
+60,111551,10,15090,681,0.0,8,0,PhD,Mortgage,home_improvement,1
+18,55661,0,27110,613,1.0,0,10,High School,Rent,major_purchase,1
+74,153198,16,1000,579,0.0,7,7,Bachelor,Mortgage,home_improvement,0
+80,126416,16,47531,734,0.0,12,4,PhD,Other,major_purchase,0
+80,66908,0,92319,475,0.23,9,0,Master,Mortgage,business,1
+80,150241,0,14555,498,0.102,15,5,Associate,Other,business,0
+80,71116,0,75261,442,0.692,7,0,Master,Own,wedding,1
+57,80415,0,71768,593,0.775,4,0,PhD,Own,car,0
+18,77695,27,1000,804,0.0,3,1,PhD,Mortgage,home_improvement,0
+54,144267,31,1000,588,0.0,7,3,PhD,Mortgage,wedding,0
+51,73705,0,42467,533,0.7,3,2,Bachelor,Own,medical,1
+18,38578,0,14977,599,1.0,0,17,PhD,Rent,business,1
+80,97701,0,51189,431,1.0,16,0,Associate,Own,vacation,1
+18,112563,27,1000,794,0.289,0,8,Bachelor,Own,business,0
+31,20000,14,10710,715,0.0,12,0,PhD,Rent,vacation,0
+80,125373,0,6139,551,0.0,16,0,Bachelor,Own,home_improvement,0
+26,20000,0,37042,430,0.605,0,30,Associate,Own,home_improvement,1
+53,107401,20,1000,668,0.0,7,1,Associate,Rent,major_purchase,0
+63,140080,2,32611,681,0.026,5,0,Bachelor,Rent,vacation,0
+63,51558,0,40728,500,0.951,9,0,High School,Other,debt_consolidation,1
+18,34969,36,1000,768,0.0,1,0,Master,Mortgage,medical,0
+68,20000,0,52727,306,1.0,9,0,PhD,Other,wedding,1
+24,95277,24,1000,782,0.0,3,1,Master,Rent,major_purchase,0
+36,53946,0,52593,604,0.935,2,3,Associate,Own,home_improvement,1
+58,49637,14,1000,676,0.0,16,0,Master,Rent,medical,0
+80,73482,0,93979,446,0.296,11,0,High School,Own,wedding,1
