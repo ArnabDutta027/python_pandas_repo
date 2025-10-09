@@ -1,0 +1,1001 @@
+Age,Income,Loan_Amount,Credit_Score,Employment_Years,Existing_Loans,Education,Marital_Status,Home_Ownership,Credit_Risk
+56,125186,23546,427,11,4,Bachelor,Married,Mortgage,High Risk
+69,54674,24129,528,25,4,High School,Married,Rent,High Risk
+46,55854,6591,410,18,2,PhD,Single,Mortgage,High Risk
+32,66271,16303,435,6,0,High School,Divorced,Own,High Risk
+60,93688,35561,661,6,0,PhD,Divorced,Own,High Risk
+25,58518,11183,485,25,2,High School,Divorced,Rent,High Risk
+38,131076,31572,428,39,2,Bachelor,Married,Own,High Risk
+56,30267,39080,560,4,2,High School,Divorced,Rent,High Risk
+36,110825,25695,814,20,0,Bachelor,Single,Mortgage,Low Risk
+40,21062,12314,748,13,4,Bachelor,Divorced,Own,High Risk
+28,136664,24623,403,3,2,High School,Single,Rent,High Risk
+28,70448,7139,782,22,1,Bachelor,Divorced,Own,Low Risk
+41,115462,36290,523,19,2,Master,Divorced,Own,High Risk
+53,26229,23088,790,14,3,High School,Single,Rent,High Risk
+57,76793,44692,772,28,2,High School,Divorced,Own,High Risk
+41,134813,38130,309,7,0,Bachelor,Divorced,Own,High Risk
+20,67915,37088,704,18,2,Bachelor,Divorced,Own,High Risk
+39,24632,31292,601,38,3,High School,Married,Own,High Risk
+19,124592,25670,530,27,1,Master,Single,Mortgage,High Risk
+41,23596,8738,365,26,4,Bachelor,Divorced,Own,High Risk
+61,129779,7469,411,3,2,Bachelor,Single,Own,High Risk
+47,26168,27534,312,14,3,PhD,Single,Rent,High Risk
+55,128099,14017,692,34,3,Master,Single,Mortgage,High Risk
+19,27561,7808,799,36,1,Master,Divorced,Rent,Low Risk
+38,93794,17713,533,0,0,High School,Divorced,Rent,High Risk
+50,102152,45329,613,2,2,Master,Single,Rent,High Risk
+29,145036,7719,311,23,3,High School,Married,Mortgage,High Risk
+39,144049,27890,508,26,1,PhD,Single,Rent,High Risk
+61,46734,16700,313,39,4,Master,Married,Rent,High Risk
+42,26371,41509,717,35,3,Bachelor,Single,Rent,High Risk
+66,138894,47534,736,33,1,PhD,Single,Own,High Risk
+44,46069,41766,676,28,0,High School,Single,Rent,High Risk
+59,99905,31705,319,23,0,PhD,Divorced,Mortgage,High Risk
+45,32910,23787,369,23,3,High School,Married,Mortgage,High Risk
+33,93479,31588,510,3,3,PhD,Married,Own,High Risk
+32,97735,31123,400,2,2,High School,Single,Mortgage,High Risk
+64,101264,38062,431,33,1,Master,Divorced,Mortgage,High Risk
+68,43275,15177,680,22,3,Bachelor,Divorced,Own,High Risk
+61,92274,26727,431,22,2,High School,Married,Rent,High Risk
+69,101449,35220,319,4,2,PhD,Divorced,Own,High Risk
+20,120776,14882,835,30,3,High School,Married,Rent,High Risk
+54,80004,6136,526,5,0,High School,Married,Rent,High Risk
+68,82981,39832,453,36,1,High School,Married,Mortgage,High Risk
+24,104659,36966,768,9,1,PhD,Divorced,Own,High Risk
+38,74553,12009,704,39,0,Bachelor,Married,Mortgage,Low Risk
+26,68447,17987,501,6,3,Master,Married,Mortgage,High Risk
+56,54529,42311,337,38,1,Bachelor,Single,Rent,High Risk
+35,146394,36575,487,37,3,High School,Married,Mortgage,High Risk
+21,95703,6007,356,20,3,PhD,Married,Own,High Risk
+42,96090,10445,319,19,2,Bachelor,Single,Mortgage,High Risk
+31,37260,15706,572,2,0,High School,Single,Mortgage,High Risk
+67,132581,49486,418,21,3,Master,Divorced,Rent,High Risk
+26,23812,34257,815,3,4,Master,Married,Own,High Risk
+43,48024,26736,520,27,0,Master,Divorced,Mortgage,High Risk
+19,78656,47207,825,11,1,High School,Divorced,Rent,High Risk
+37,136148,18281,814,37,2,PhD,Single,Mortgage,Low Risk
+45,47285,6435,635,35,1,Bachelor,Divorced,Own,Low Risk
+64,112436,38339,354,4,1,Master,Married,Mortgage,High Risk
+24,136421,40150,799,12,0,High School,Single,Mortgage,Low Risk
+61,21605,30821,835,22,1,High School,Married,Rent,High Risk
+25,91158,31660,461,29,3,Bachelor,Married,Mortgage,High Risk
+64,92303,10084,458,36,1,Master,Single,Rent,High Risk
+52,47139,21661,487,24,2,High School,Married,Own,High Risk
+31,97149,18507,359,26,2,Bachelor,Single,Mortgage,High Risk
+34,76138,12059,618,13,4,PhD,Married,Own,High Risk
+53,138205,23271,510,35,2,PhD,Single,Own,High Risk
+67,96125,12491,705,38,1,PhD,Divorced,Mortgage,Low Risk
+57,33918,19859,408,15,2,Master,Married,Rent,High Risk
+21,105655,13073,375,21,0,Bachelor,Single,Own,High Risk
+19,47446,14077,841,20,2,Bachelor,Married,Own,Low Risk
+23,144040,25953,613,20,3,High School,Married,Mortgage,High Risk
+59,33046,16383,416,7,0,High School,Married,Mortgage,High Risk
+21,149922,7353,318,15,4,High School,Single,Mortgage,High Risk
+46,44818,28821,731,30,3,Bachelor,Divorced,Mortgage,High Risk
+35,120894,42567,649,9,1,High School,Divorced,Mortgage,High Risk
+43,135751,29860,482,31,1,Bachelor,Divorced,Mortgage,High Risk
+61,24324,26195,412,33,1,Bachelor,Single,Rent,High Risk
+51,96323,16939,482,8,3,PhD,Divorced,Own,High Risk
+27,29111,30338,780,16,3,High School,Single,Rent,High Risk
+53,58110,26730,445,10,3,PhD,Married,Rent,High Risk
+31,36389,26427,412,31,0,Master,Married,Mortgage,High Risk
+48,142177,40196,775,9,0,Master,Divorced,Own,Low Risk
+65,61427,32083,602,21,1,Master,Single,Rent,High Risk
+32,99579,26510,417,16,2,Bachelor,Married,Mortgage,High Risk
+25,48746,49064,460,3,1,Bachelor,Single,Mortgage,High Risk
+31,142883,12813,700,24,4,Bachelor,Single,Own,High Risk
+40,107886,36598,497,20,0,High School,Married,Rent,High Risk
+57,127141,32570,559,36,3,PhD,Single,Rent,High Risk
+38,20117,32082,346,37,0,Bachelor,Married,Rent,High Risk
+33,145808,34241,698,0,3,PhD,Married,Mortgage,High Risk
+62,132221,35678,377,24,4,PhD,Married,Own,High Risk
+35,104471,49569,423,35,4,PhD,Single,Own,High Risk
+64,132613,16745,374,16,0,High School,Married,Rent,High Risk
+41,33234,31029,436,23,3,High School,Single,Mortgage,High Risk
+43,149597,18025,699,1,4,Master,Married,Rent,High Risk
+42,123864,41124,804,39,1,Master,Married,Own,High Risk
+62,73441,19288,799,14,1,PhD,Divorced,Mortgage,Low Risk
+58,20846,28650,437,31,3,Master,Divorced,Rent,High Risk
+46,30954,11540,349,38,0,PhD,Divorced,Rent,High Risk
+32,99239,37232,553,5,4,High School,Single,Mortgage,High Risk
+62,133689,21422,725,0,0,High School,Single,Own,High Risk
+18,66514,8342,846,22,1,High School,Married,Mortgage,Low Risk
+42,108236,46846,601,38,4,Bachelor,Married,Rent,High Risk
+24,117579,40612,648,16,0,PhD,Married,Rent,High Risk
+26,148644,15396,348,33,2,High School,Married,Rent,High Risk
+41,26469,22482,373,28,3,PhD,Single,Rent,High Risk
+18,50105,28411,560,8,3,Master,Married,Own,High Risk
+61,62101,18261,655,12,2,Master,Married,Own,Low Risk
+25,84323,8093,559,5,1,High School,Divorced,Rent,High Risk
+41,111922,16722,594,5,4,PhD,Married,Own,High Risk
+28,78067,27042,612,19,3,High School,Married,Own,High Risk
+68,69376,49413,481,2,2,Master,Married,Own,High Risk
+34,65587,33087,663,16,2,High School,Single,Rent,High Risk
+25,56976,37347,487,11,1,PhD,Divorced,Mortgage,High Risk
+52,124587,38756,842,0,1,Master,Married,Mortgage,High Risk
+52,147534,44214,847,16,0,Bachelor,Married,Mortgage,Low Risk
+50,87584,21335,707,2,3,Master,Divorced,Rent,High Risk
+22,124537,33602,713,25,0,Bachelor,Married,Own,Low Risk
+59,98477,39450,641,14,2,High School,Single,Own,High Risk
+56,130911,37196,519,35,4,High School,Married,Rent,High Risk
+58,62533,10626,462,31,4,PhD,Single,Rent,High Risk
+45,21828,12424,519,31,1,Bachelor,Single,Mortgage,High Risk
+24,21917,17857,569,3,4,High School,Married,Mortgage,High Risk
+26,40618,49923,699,17,4,Bachelor,Divorced,Rent,High Risk
+25,52254,24982,481,18,4,High School,Single,Mortgage,High Risk
+29,125292,16425,504,34,2,Master,Divorced,Own,High Risk
+51,136714,6980,527,39,4,High School,Married,Rent,High Risk
+50,67362,31431,549,13,4,PhD,Single,Rent,High Risk
+65,40128,24440,740,32,4,Master,Married,Own,High Risk
+40,143781,46752,832,13,0,PhD,Divorced,Own,High Risk
+41,131281,22175,495,33,2,Master,Married,Own,High Risk
+54,79383,31385,818,3,1,Bachelor,Married,Mortgage,High Risk
+52,85545,43158,369,23,0,PhD,Single,Rent,High Risk
+61,102180,28019,698,28,3,High School,Married,Mortgage,High Risk
+57,107958,23639,502,18,2,Bachelor,Married,Own,High Risk
+39,29865,24994,447,5,2,High School,Married,Mortgage,High Risk
+44,22219,39375,771,32,3,Master,Single,Own,High Risk
+52,59809,26563,498,39,3,Master,Divorced,Mortgage,High Risk
+18,136748,44341,725,18,3,High School,Divorced,Mortgage,High Risk
+52,25287,10776,791,0,1,High School,Married,Own,High Risk
+54,146593,41444,441,4,4,Bachelor,Single,Mortgage,High Risk
+64,54387,8380,612,26,2,High School,Married,Rent,Low Risk
+31,28512,13711,464,15,4,PhD,Divorced,Mortgage,High Risk
+20,21342,13782,613,5,4,PhD,Single,Mortgage,High Risk
+18,83076,22434,320,39,3,High School,Divorced,Rent,High Risk
+22,128872,25017,381,12,1,PhD,Divorced,Own,High Risk
+43,39216,35707,430,34,0,High School,Single,Rent,High Risk
+31,137512,44110,604,18,1,Bachelor,Single,Mortgage,High Risk
+56,136682,22343,670,11,4,PhD,Married,Own,High Risk
+44,113070,43827,683,15,1,PhD,Married,Mortgage,High Risk
+26,99767,46652,744,9,3,High School,Divorced,Mortgage,High Risk
+32,117829,10655,724,24,0,PhD,Single,Rent,Low Risk
+32,46614,49859,460,19,3,Master,Single,Rent,High Risk
+43,56258,20251,477,30,0,Bachelor,Married,Own,High Risk
+59,113789,5526,789,3,4,Bachelor,Divorced,Own,High Risk
+30,62078,8224,626,22,0,PhD,Divorced,Own,Low Risk
+68,126288,16536,588,1,0,PhD,Married,Mortgage,High Risk
+49,103524,33541,653,21,0,Master,Single,Rent,High Risk
+56,116573,18547,327,36,1,Master,Married,Rent,High Risk
+66,32219,39531,342,7,1,PhD,Married,Rent,High Risk
+69,20235,13712,722,6,4,PhD,Married,Own,High Risk
+49,62929,43565,476,13,0,Master,Married,Rent,High Risk
+21,147309,14208,828,2,2,High School,Single,Rent,Low Risk
+47,87444,10109,793,15,4,Master,Married,Rent,High Risk
+54,28567,40201,497,18,0,High School,Single,Own,High Risk
+40,121834,21967,816,17,0,Bachelor,Married,Rent,Low Risk
+56,90792,34759,813,15,1,Bachelor,Divorced,Own,High Risk
+62,85441,25172,321,7,4,Master,Single,Rent,High Risk
+32,104555,41935,411,32,0,High School,Divorced,Rent,High Risk
+60,93698,31589,356,11,0,Master,Married,Rent,High Risk
+46,144450,35015,365,10,4,Master,Married,Own,High Risk
+53,137248,34009,397,4,2,High School,Married,Own,High Risk
+30,25415,22773,443,26,4,Master,Single,Rent,High Risk
+49,56159,46125,734,11,4,Bachelor,Divorced,Mortgage,High Risk
+24,63925,31143,385,16,2,PhD,Single,Own,High Risk
+68,146523,11154,643,5,4,PhD,Single,Own,High Risk
+39,25951,26804,593,32,0,Master,Married,Rent,High Risk
+45,107388,46688,542,4,4,High School,Divorced,Mortgage,High Risk
+19,28007,25581,331,27,2,High School,Married,Rent,High Risk
+59,146730,35087,690,13,3,Bachelor,Single,Own,High Risk
+62,61832,37981,576,4,4,High School,Married,Own,High Risk
+23,78596,8762,831,32,1,High School,Divorced,Rent,Low Risk
+45,141101,14768,453,18,0,Bachelor,Married,Rent,High Risk
+45,50523,48408,682,21,0,Master,Divorced,Mortgage,High Risk
+61,108861,44499,367,4,1,PhD,Divorced,Mortgage,High Risk
+61,144194,43559,513,1,1,Bachelor,Married,Own,High Risk
+37,106740,13783,675,29,4,Master,Single,Mortgage,High Risk
+47,35524,34781,512,38,1,Bachelor,Married,Mortgage,High Risk
+28,149028,35811,378,3,3,Master,Single,Own,High Risk
+45,39282,40488,680,32,2,Bachelor,Single,Own,High Risk
+42,43930,13905,357,12,1,Master,Married,Own,High Risk
+56,20077,14127,325,19,1,Bachelor,Single,Own,High Risk
+50,125881,27431,746,6,3,Master,Single,Rent,High Risk
+18,145501,11368,365,14,0,Bachelor,Married,Own,High Risk
+44,40611,32424,553,22,0,PhD,Married,Own,High Risk
+69,36984,23333,343,13,4,PhD,Married,Own,High Risk
+30,34060,28116,396,22,3,High School,Single,Mortgage,High Risk
+58,102985,48201,526,18,2,Master,Divorced,Own,High Risk
+20,104056,20525,735,28,2,Bachelor,Single,Rent,Low Risk
+56,145329,28398,678,19,3,Master,Divorced,Rent,High Risk
+23,63303,37857,477,28,2,PhD,Married,Own,High Risk
+25,79207,15361,726,23,0,Master,Divorced,Rent,Low Risk
+44,95046,21369,606,17,2,Bachelor,Married,Mortgage,Low Risk
+26,49287,8041,803,9,2,Master,Married,Own,Low Risk
+54,113709,5105,567,7,3,Bachelor,Divorced,Rent,High Risk
+50,59711,14078,307,25,3,PhD,Married,Rent,High Risk
+68,31954,30003,807,28,2,PhD,Divorced,Own,High Risk
+59,93340,11090,775,9,1,PhD,Married,Rent,Low Risk
+61,92101,43850,596,16,3,High School,Single,Own,High Risk
+41,91520,6925,463,1,4,PhD,Single,Rent,High Risk
+32,107062,23440,784,5,4,Master,Married,Mortgage,High Risk
+49,122974,44685,371,4,0,High School,Married,Rent,High Risk
+49,38574,31015,537,27,2,PhD,Divorced,Rent,High Risk
+41,29184,38320,403,4,1,Master,Single,Own,High Risk
+58,39096,30291,509,17,0,Master,Divorced,Rent,High Risk
+69,87728,41679,767,25,2,Master,Married,Own,High Risk
+66,54016,31289,753,19,3,Bachelor,Married,Mortgage,High Risk
+66,31246,8389,567,26,4,High School,Divorced,Own,High Risk
+69,65558,30683,685,11,1,Master,Married,Own,High Risk
+29,138721,18629,686,6,4,Bachelor,Single,Rent,High Risk
+56,38381,29826,558,2,3,PhD,Divorced,Mortgage,High Risk
+19,147796,40198,582,9,2,Master,Single,Own,High Risk
+20,56455,31630,339,33,3,Bachelor,Single,Rent,High Risk
+66,112263,38226,785,24,3,Master,Single,Rent,High Risk
+54,24018,37975,519,34,4,High School,Divorced,Own,High Risk
+66,31302,5899,428,15,1,High School,Married,Rent,High Risk
+34,87506,16653,819,1,3,PhD,Single,Own,High Risk
+66,61157,32961,559,23,4,Master,Single,Own,High Risk
+19,74917,21405,665,9,1,Bachelor,Single,Own,Low Risk
+19,112738,13601,843,37,2,PhD,Married,Mortgage,Low Risk
+45,116646,38662,823,21,2,Master,Married,Own,High Risk
+40,103122,38282,315,25,0,PhD,Divorced,Rent,High Risk
+54,44519,26288,428,38,4,Bachelor,Married,Mortgage,High Risk
+49,116809,34545,408,26,1,PhD,Divorced,Rent,High Risk
+50,107487,41877,832,28,3,PhD,Divorced,Mortgage,High Risk
+18,76819,20313,568,37,2,PhD,Divorced,Mortgage,High Risk
+36,100910,20349,461,19,1,Master,Divorced,Mortgage,High Risk
+19,140430,12179,559,26,4,Bachelor,Divorced,Mortgage,High Risk
+61,91324,15326,401,19,0,High School,Single,Rent,High Risk
+43,25408,49555,805,18,2,Master,Married,Own,High Risk
+49,79379,6560,546,19,1,High School,Single,Rent,High Risk
+23,45053,18612,836,34,1,High School,Divorced,Own,High Risk
+49,29446,22650,430,1,1,Master,Married,Rent,High Risk
+21,20922,31745,652,29,4,Master,Single,Mortgage,High Risk
+28,118723,36890,495,33,4,Bachelor,Single,Mortgage,High Risk
+34,71356,25022,681,21,4,Bachelor,Divorced,Own,High Risk
+55,30789,9780,526,2,3,PhD,Single,Own,High Risk
+41,117720,23311,775,5,1,High School,Single,Rent,Low Risk
+22,86656,33380,776,14,2,Bachelor,Single,Own,High Risk
+69,64028,49662,564,26,4,PhD,Single,Rent,High Risk
+51,84484,7356,671,9,4,Bachelor,Single,Own,High Risk
+23,52154,9790,785,8,1,Master,Divorced,Own,Low Risk
+39,102870,31911,733,32,4,Bachelor,Divorced,Own,High Risk
+28,22336,29363,510,31,3,High School,Single,Mortgage,High Risk
+65,123677,25049,676,5,3,Bachelor,Divorced,Mortgage,High Risk
+33,87779,15181,694,35,4,High School,Divorced,Rent,High Risk
+50,39029,44825,749,1,1,Master,Married,Own,High Risk
+26,79201,21082,663,28,1,High School,Single,Rent,Low Risk
+23,52265,5661,756,3,1,Bachelor,Divorced,Own,Low Risk
+33,122916,42412,525,0,0,PhD,Divorced,Mortgage,High Risk
+46,132250,7920,430,18,4,Master,Single,Mortgage,High Risk
+20,136553,30658,775,25,1,Bachelor,Married,Own,Low Risk
+37,63872,19025,576,24,3,Master,Single,Own,High Risk
+53,66197,13946,455,9,2,Master,Married,Mortgage,High Risk
+36,145733,33706,517,14,2,Bachelor,Single,Mortgage,High Risk
+43,75180,44004,489,21,1,Bachelor,Single,Rent,High Risk
+20,43710,21309,716,20,2,PhD,Single,Mortgage,High Risk
+36,49486,38120,845,21,2,Master,Single,Own,High Risk
+37,91907,35027,340,35,0,Master,Married,Rent,High Risk
+49,148876,12005,606,33,3,Bachelor,Married,Own,High Risk
+24,91895,5956,637,29,3,High School,Divorced,Rent,High Risk
+69,84435,39839,613,24,0,Bachelor,Single,Own,High Risk
+58,60631,13595,374,27,0,Master,Married,Mortgage,High Risk
+50,149038,17803,578,0,2,Bachelor,Married,Own,High Risk
+57,121532,30963,475,3,4,PhD,Married,Rent,High Risk
+56,40103,41221,572,6,2,High School,Single,Own,High Risk
+35,84772,44443,588,8,0,Bachelor,Divorced,Rent,High Risk
+57,146108,38723,571,35,3,PhD,Married,Own,High Risk
+18,34382,44063,365,18,2,Master,Single,Mortgage,High Risk
+28,104291,20282,782,0,4,Bachelor,Married,Mortgage,High Risk
+45,121195,9703,547,9,2,Master,Married,Own,High Risk
+42,23756,11563,455,35,1,PhD,Divorced,Own,High Risk
+67,40609,30849,346,8,2,Master,Married,Own,High Risk
+40,134074,36860,753,31,0,PhD,Married,Rent,Low Risk
+48,36478,36585,500,31,3,PhD,Single,Own,High Risk
+47,120978,27015,423,5,3,PhD,Single,Own,High Risk
+59,59666,17003,300,37,0,Bachelor,Divorced,Rent,High Risk
+52,95683,48585,490,16,1,Master,Single,Mortgage,High Risk
+24,119097,31958,815,9,0,Master,Single,Own,Low Risk
+33,144714,31017,741,26,2,High School,Divorced,Own,Low Risk
+43,120420,16171,442,34,0,High School,Married,Mortgage,High Risk
+65,91315,17201,490,20,0,High School,Divorced,Mortgage,High Risk
+69,97834,34426,832,24,1,High School,Single,Rent,High Risk
+66,146205,22778,526,27,2,Master,Divorced,Own,High Risk
+19,34153,47229,612,14,4,PhD,Married,Own,High Risk
+18,129415,26116,601,3,4,PhD,Divorced,Rent,High Risk
+65,96325,38297,759,28,3,Bachelor,Single,Mortgage,High Risk
+29,129701,24342,700,8,0,PhD,Single,Rent,Low Risk
+22,32999,32490,692,26,3,Master,Divorced,Mortgage,High Risk
+54,75318,24975,506,25,1,Master,Married,Rent,High Risk
+49,20814,31723,509,18,4,Master,Divorced,Mortgage,High Risk
+26,135033,28279,414,27,0,Bachelor,Married,Rent,High Risk
+58,96077,17765,550,16,1,High School,Married,Mortgage,High Risk
+52,110474,16561,518,19,1,PhD,Divorced,Mortgage,High Risk
+36,22443,46899,706,39,0,Master,Married,Mortgage,High Risk
+65,95993,5525,742,38,1,Master,Single,Mortgage,Low Risk
+33,95916,27861,653,22,0,High School,Divorced,Mortgage,Low Risk
+20,93319,38142,849,31,0,Master,Married,Own,High Risk
+37,145885,31916,441,32,2,PhD,Single,Mortgage,High Risk
+41,129777,49965,800,4,3,Bachelor,Divorced,Own,High Risk
+50,37368,9648,846,33,1,Master,Single,Mortgage,Low Risk
+41,35328,40133,841,39,1,PhD,Single,Own,High Risk
+69,76942,35523,806,10,2,Master,Single,Own,High Risk
+28,111751,34052,580,2,2,High School,Married,Rent,High Risk
+66,119131,39414,723,32,2,Master,Divorced,Mortgage,High Risk
+25,47306,37781,569,10,4,Master,Divorced,Rent,High Risk
+53,105451,9599,453,15,4,Bachelor,Married,Rent,High Risk
+55,59915,40046,382,17,4,High School,Divorced,Mortgage,High Risk
+57,57219,40923,725,29,0,High School,Single,Rent,High Risk
+37,100879,46089,574,9,1,Bachelor,Divorced,Mortgage,High Risk
+52,131939,8814,583,17,3,Master,Married,Rent,High Risk
+65,84644,40984,472,37,0,PhD,Single,Mortgage,High Risk
+42,80279,31616,626,18,1,High School,Married,Mortgage,High Risk
+52,73028,7113,362,35,1,High School,Single,Mortgage,High Risk
+42,124263,48006,372,12,2,Master,Single,Own,High Risk
+46,20126,18760,674,2,2,Master,Divorced,Rent,High Risk
+35,72329,26927,807,9,0,High School,Single,Own,High Risk
+63,47632,25939,697,37,2,Master,Married,Rent,High Risk
+35,127099,37419,419,0,1,PhD,Divorced,Rent,High Risk
+19,85310,17588,736,26,2,High School,Married,Rent,Low Risk
+52,129945,41142,764,7,4,PhD,Single,Own,High Risk
+33,75176,44198,585,16,2,PhD,Married,Rent,High Risk
+58,139797,49738,564,8,1,Master,Married,Own,High Risk
+53,106066,38397,619,5,0,PhD,Single,Mortgage,High Risk
+50,125500,21653,675,24,3,Master,Divorced,Rent,High Risk
+21,146413,15831,388,38,2,Bachelor,Married,Rent,High Risk
+50,64327,10724,502,27,1,Master,Single,Mortgage,High Risk
+31,88904,16083,633,32,3,PhD,Divorced,Mortgage,High Risk
+38,23797,24816,521,36,3,Bachelor,Divorced,Rent,High Risk
+65,67882,47240,340,8,4,Master,Divorced,Mortgage,High Risk
+37,33718,11276,367,17,3,PhD,Married,Own,High Risk
+25,54560,43663,813,20,1,High School,Married,Own,High Risk
+24,96589,18994,426,1,1,High School,Married,Rent,High Risk
+20,42116,28499,554,37,2,Master,Divorced,Own,High Risk
+34,56244,28040,315,39,2,Master,Married,Own,High Risk
+50,121721,48320,776,35,2,High School,Single,Rent,High Risk
+65,21645,21959,361,36,3,PhD,Married,Mortgage,High Risk
+29,67523,11099,731,14,3,PhD,Married,Rent,High Risk
+68,144085,47267,567,27,4,PhD,Divorced,Own,High Risk
+39,137718,24576,334,17,2,Master,Married,Rent,High Risk
+39,39256,40946,793,33,0,Bachelor,Single,Rent,High Risk
+63,121376,11116,768,21,4,Bachelor,Divorced,Own,High Risk
+47,120158,20563,624,10,0,Bachelor,Single,Own,Low Risk
+55,73173,31788,603,12,3,Bachelor,Divorced,Rent,High Risk
+55,57430,31928,575,3,4,Bachelor,Divorced,Own,High Risk
+62,59282,41336,500,21,4,Master,Married,Own,High Risk
+68,139719,14847,744,6,1,Master,Single,Own,Low Risk
+25,83374,31155,623,23,3,Bachelor,Divorced,Own,High Risk
+44,88244,19135,334,3,3,Master,Married,Own,High Risk
+44,31694,22774,781,27,4,Master,Divorced,Own,High Risk
+51,76264,6742,779,14,3,Bachelor,Divorced,Mortgage,High Risk
+38,95060,23309,364,0,4,PhD,Divorced,Rent,High Risk
+47,117416,5619,307,2,1,Master,Divorced,Own,High Risk
+50,77545,22658,600,13,4,PhD,Divorced,Rent,High Risk
+45,138195,39707,642,37,3,Master,Divorced,Mortgage,High Risk
+64,59224,25337,730,0,3,Master,Married,Own,High Risk
+50,122516,21001,723,37,4,Bachelor,Divorced,Rent,High Risk
+22,117945,5968,631,37,4,Master,Single,Own,High Risk
+65,33224,30892,737,20,4,High School,Married,Own,High Risk
+36,60738,30619,473,28,2,High School,Single,Own,High Risk
+21,45150,5281,826,4,3,Bachelor,Divorced,Own,High Risk
+52,83731,32420,325,9,3,PhD,Single,Own,High Risk
+66,69688,20360,705,27,2,PhD,Divorced,Own,Low Risk
+34,119929,44030,531,20,4,PhD,Divorced,Own,High Risk
+61,128618,6058,832,6,1,High School,Married,Mortgage,Low Risk
+45,93509,25677,849,2,4,PhD,Married,Mortgage,High Risk
+47,28577,15724,804,19,4,PhD,Divorced,Own,High Risk
+46,28070,33404,478,18,2,Bachelor,Married,Own,High Risk
+63,146161,42946,431,34,3,PhD,Single,Mortgage,High Risk
+23,28666,44748,754,3,4,High School,Married,Mortgage,High Risk
+52,77761,34856,647,4,3,High School,Married,Mortgage,High Risk
+58,141178,14200,839,0,0,High School,Single,Own,High Risk
+54,56368,38997,705,3,3,Bachelor,Married,Rent,High Risk
+41,26783,30611,375,11,1,Bachelor,Divorced,Rent,High Risk
+46,131530,46235,791,26,1,Master,Single,Rent,High Risk
+66,61914,40057,493,22,4,PhD,Divorced,Rent,High Risk
+63,90507,6239,461,24,3,Bachelor,Single,Own,High Risk
+48,147738,43138,646,20,4,High School,Divorced,Rent,High Risk
+52,99026,5125,660,23,2,High School,Divorced,Mortgage,Low Risk
+50,135893,28857,386,24,1,Bachelor,Married,Mortgage,High Risk
+69,131255,20398,561,31,4,Bachelor,Divorced,Rent,High Risk
+38,130616,11638,513,31,2,Bachelor,Married,Mortgage,High Risk
+49,87526,11570,561,4,4,Master,Single,Own,High Risk
+40,90835,8249,582,35,3,High School,Divorced,Rent,High Risk
+50,65765,14110,766,38,3,Master,Divorced,Rent,High Risk
+20,39956,45363,679,15,3,Master,Single,Own,High Risk
+35,107895,18605,661,32,3,PhD,Single,Mortgage,High Risk
+42,66240,17115,748,20,0,High School,Divorced,Own,Low Risk
+59,141008,44062,740,8,2,High School,Single,Own,High Risk
+48,57148,27911,392,5,2,Bachelor,Married,Mortgage,High Risk
+20,114270,43525,723,34,3,Bachelor,Single,Own,High Risk
+57,147978,37556,441,38,0,PhD,Single,Mortgage,High Risk
+63,24757,17595,590,21,3,Master,Divorced,Mortgage,High Risk
+41,39097,6969,731,4,0,Bachelor,Married,Own,Low Risk
+67,30395,48753,348,22,3,Bachelor,Single,Mortgage,High Risk
+49,36241,22275,601,16,1,High School,Married,Own,High Risk
+64,123892,9470,489,11,1,High School,Married,Mortgage,High Risk
+39,47696,15225,435,22,4,Bachelor,Married,Rent,High Risk
+40,135654,47324,703,15,3,High School,Divorced,Mortgage,High Risk
+19,90480,46974,640,2,2,PhD,Single,Mortgage,High Risk
+44,66163,47759,617,29,4,Bachelor,Divorced,Own,High Risk
+59,39816,28196,662,21,1,High School,Single,Mortgage,High Risk
+19,69840,45287,681,8,3,PhD,Single,Rent,High Risk
+43,122547,18669,532,28,4,High School,Divorced,Rent,High Risk
+34,72853,42380,643,36,3,High School,Married,Mortgage,High Risk
+57,44917,43006,848,22,1,High School,Married,Mortgage,High Risk
+50,116731,20577,828,12,4,Bachelor,Single,Rent,High Risk
+26,41566,27473,482,31,1,Master,Divorced,Own,High Risk
+60,95452,33625,340,22,0,High School,Married,Rent,High Risk
+65,82823,20504,696,16,1,PhD,Married,Rent,Low Risk
+56,141392,29089,793,39,3,Bachelor,Single,Mortgage,High Risk
+46,40806,41487,632,20,2,Bachelor,Single,Mortgage,High Risk
+59,95520,5302,426,1,1,PhD,Divorced,Rent,High Risk
+43,21759,36463,300,36,2,High School,Single,Own,High Risk
+52,146092,49912,467,5,0,Master,Married,Rent,High Risk
+67,61949,34259,318,17,4,High School,Married,Rent,High Risk
+42,112374,47823,631,29,4,PhD,Married,Own,High Risk
+41,22482,42208,755,21,2,Bachelor,Married,Rent,High Risk
+30,44442,35659,408,32,4,Master,Divorced,Rent,High Risk
+24,53719,40840,567,29,1,Bachelor,Divorced,Mortgage,High Risk
+53,78066,36890,744,16,2,PhD,Single,Own,High Risk
+62,113501,18598,539,31,3,High School,Single,Mortgage,High Risk
+37,22079,24508,600,13,1,Master,Single,Mortgage,High Risk
+18,22717,47287,402,9,1,Bachelor,Divorced,Own,High Risk
+25,79676,18380,549,35,1,Bachelor,Married,Own,High Risk
+63,47952,31984,752,33,3,Bachelor,Single,Rent,High Risk
+33,106444,49633,819,8,0,High School,Married,Mortgage,High Risk
+31,62460,13125,452,27,4,Master,Single,Own,High Risk
+29,110397,41059,473,10,2,High School,Single,Mortgage,High Risk
+68,92847,9033,642,13,0,High School,Single,Mortgage,Low Risk
+40,113607,42873,730,38,2,High School,Single,Own,High Risk
+32,109106,22087,623,18,4,PhD,Single,Rent,High Risk
+45,38449,45901,719,14,3,PhD,Married,Mortgage,High Risk
+51,53536,10704,784,27,1,PhD,Single,Own,Low Risk
+19,84077,12848,711,23,1,Master,Married,Rent,Low Risk
+49,58258,26592,383,7,3,High School,Divorced,Mortgage,High Risk
+40,68302,11924,412,8,0,High School,Single,Own,High Risk
+39,145937,32208,631,32,0,PhD,Married,Mortgage,Low Risk
+68,48865,24614,677,32,2,High School,Divorced,Own,High Risk
+42,26645,5488,340,18,3,High School,Divorced,Own,High Risk
+39,139771,44882,404,2,0,Bachelor,Divorced,Mortgage,High Risk
+39,58000,30923,501,9,3,High School,Married,Mortgage,High Risk
+66,46737,40941,749,39,4,Bachelor,Single,Own,High Risk
+69,31485,34165,565,0,1,High School,Single,Rent,High Risk
+59,58565,6667,509,28,1,Master,Married,Mortgage,High Risk
+23,45522,31213,417,33,1,PhD,Single,Own,High Risk
+32,139614,9114,676,12,3,Bachelor,Married,Own,High Risk
+60,85155,41321,839,0,3,PhD,Single,Rent,High Risk
+54,75168,12761,383,33,2,Bachelor,Divorced,Rent,High Risk
+50,72487,36116,753,28,1,Bachelor,Single,Rent,High Risk
+25,149948,38768,813,12,2,Bachelor,Married,Mortgage,Low Risk
+61,32342,30426,686,28,1,Master,Married,Own,High Risk
+61,60806,22772,649,38,2,High School,Divorced,Own,High Risk
+22,68770,43218,595,23,2,Bachelor,Married,Own,High Risk
+56,98623,8712,557,25,4,Master,Single,Rent,High Risk
+21,123177,6367,380,16,2,Bachelor,Single,Own,High Risk
+23,119785,45957,567,6,3,High School,Divorced,Mortgage,High Risk
+62,95629,46781,718,12,2,Bachelor,Married,Rent,High Risk
+49,140993,31200,534,4,1,Master,Divorced,Rent,High Risk
+69,72603,8726,610,25,2,High School,Single,Rent,Low Risk
+47,146944,28616,656,2,0,Master,Divorced,Rent,Low Risk
+64,132726,32723,512,6,1,High School,Married,Mortgage,High Risk
+52,101974,42574,348,38,0,High School,Divorced,Own,High Risk
+57,125947,39958,426,0,1,PhD,Married,Mortgage,High Risk
+69,46399,14108,522,16,3,PhD,Married,Own,High Risk
+33,148177,17178,578,24,3,PhD,Single,Mortgage,High Risk
+30,105382,40643,707,2,3,High School,Single,Rent,High Risk
+67,101244,36324,804,14,0,Bachelor,Single,Rent,High Risk
+59,129575,43360,593,28,4,Master,Married,Mortgage,High Risk
+47,135520,22824,576,31,1,Master,Divorced,Mortgage,High Risk
+36,130904,13927,737,25,3,Master,Married,Own,High Risk
+34,96534,33144,406,15,1,PhD,Single,Mortgage,High Risk
+36,75106,36010,719,24,0,High School,Single,Mortgage,High Risk
+45,132599,27443,728,27,4,PhD,Divorced,Own,High Risk
+43,50678,19437,674,8,0,Bachelor,Single,Own,High Risk
+54,96218,49298,372,0,1,High School,Single,Own,High Risk
+43,83230,44778,329,28,4,Master,Single,Mortgage,High Risk
+40,134684,16207,487,21,4,PhD,Divorced,Own,High Risk
+26,94055,30537,663,15,0,PhD,Married,Rent,High Risk
+29,76373,40757,750,6,3,Bachelor,Single,Rent,High Risk
+18,51480,17040,494,13,1,Bachelor,Divorced,Rent,High Risk
+18,105230,46986,455,28,2,PhD,Single,Mortgage,High Risk
+64,88836,27612,471,18,2,Bachelor,Divorced,Rent,High Risk
+51,92258,33441,340,18,0,Master,Single,Mortgage,High Risk
+49,59986,11471,362,1,1,Bachelor,Divorced,Mortgage,High Risk
+65,44160,40631,322,14,1,Bachelor,Single,Rent,High Risk
+42,105595,48461,659,2,0,PhD,Married,Own,High Risk
+57,121358,31523,374,10,1,PhD,Single,Mortgage,High Risk
+62,99111,36348,417,29,3,High School,Divorced,Rent,High Risk
+18,84929,6177,679,39,0,High School,Single,Mortgage,Low Risk
+33,93506,9760,589,17,3,PhD,Married,Own,High Risk
+56,54911,37779,739,1,1,Bachelor,Single,Own,High Risk
+22,107127,26636,306,31,0,Bachelor,Divorced,Rent,High Risk
+39,51821,21353,495,7,1,High School,Divorced,Mortgage,High Risk
+46,95039,16556,720,21,0,High School,Married,Mortgage,Low Risk
+20,80535,32598,492,5,1,High School,Divorced,Mortgage,High Risk
+29,133453,16563,447,11,3,Master,Single,Mortgage,High Risk
+43,104458,48790,501,39,3,Master,Single,Rent,High Risk
+33,32175,13234,743,35,1,High School,Single,Own,High Risk
+68,139235,30519,718,14,0,Bachelor,Divorced,Rent,Low Risk
+54,74771,31966,726,27,2,High School,Single,Mortgage,High Risk
+39,126660,21173,778,17,3,Master,Single,Mortgage,High Risk
+46,147157,31987,774,1,3,Bachelor,Single,Own,High Risk
+31,141300,18178,425,12,2,Master,Married,Mortgage,High Risk
+45,106925,44338,694,14,1,Bachelor,Divorced,Rent,High Risk
+22,133374,29596,624,19,0,Master,Divorced,Rent,Low Risk
+64,86358,38174,691,28,1,Bachelor,Divorced,Own,High Risk
+66,37327,46974,739,28,4,Bachelor,Married,Rent,High Risk
+47,67057,9431,503,2,3,Bachelor,Divorced,Rent,High Risk
+63,26150,32764,785,18,4,Bachelor,Married,Rent,High Risk
+69,24425,26627,330,2,3,PhD,Married,Rent,High Risk
+22,143654,44310,687,13,3,Master,Divorced,Mortgage,High Risk
+29,36032,13906,733,39,4,Master,Single,Rent,High Risk
+33,22198,41914,675,3,4,PhD,Single,Own,High Risk
+43,80500,49814,643,10,1,Bachelor,Divorced,Own,High Risk
+43,73394,18076,742,30,4,Bachelor,Divorced,Rent,High Risk
+65,40079,42650,374,31,1,Master,Married,Own,High Risk
+38,56220,11012,454,26,1,PhD,Divorced,Rent,High Risk
+56,61874,12151,729,29,1,Bachelor,Married,Own,Low Risk
+53,33859,33211,662,1,3,Bachelor,Divorced,Own,High Risk
+50,70460,32117,747,8,3,Bachelor,Single,Rent,High Risk
+47,51419,41378,533,27,4,High School,Single,Rent,High Risk
+54,138865,47652,561,30,3,PhD,Divorced,Mortgage,High Risk
+40,28705,11894,424,33,4,Bachelor,Married,Rent,High Risk
+27,62880,18467,544,14,3,High School,Single,Rent,High Risk
+22,149838,36010,841,24,0,PhD,Married,Mortgage,Low Risk
+53,43236,47641,784,35,0,Bachelor,Divorced,Rent,High Risk
+51,107955,17289,421,7,4,Master,Divorced,Rent,High Risk
+69,105514,49976,424,8,3,High School,Single,Mortgage,High Risk
+48,123145,48596,848,36,3,High School,Divorced,Rent,High Risk
+27,35358,28171,469,38,1,Bachelor,Single,Rent,High Risk
+36,119713,39905,423,31,2,Bachelor,Married,Mortgage,High Risk
+49,114914,25829,334,16,4,High School,Single,Mortgage,High Risk
+18,122870,39054,386,34,2,Master,Single,Own,High Risk
+22,96918,49139,500,36,2,Master,Married,Rent,High Risk
+62,139179,34734,668,18,4,PhD,Single,Own,High Risk
+21,136243,12052,376,28,3,Bachelor,Single,Own,High Risk
+33,34596,8654,358,6,4,Master,Divorced,Mortgage,High Risk
+41,53572,28486,730,27,2,PhD,Married,Rent,High Risk
+33,98757,23743,799,8,3,Master,Single,Rent,High Risk
+19,21279,29489,408,27,0,Bachelor,Married,Mortgage,High Risk
+66,83197,13636,577,5,4,PhD,Married,Own,High Risk
+45,131496,11441,367,28,4,PhD,Single,Mortgage,High Risk
+49,82516,29611,368,16,3,PhD,Divorced,Rent,High Risk
+44,27083,47435,464,15,0,Master,Married,Mortgage,High Risk
+37,140674,17149,788,22,0,Bachelor,Single,Rent,Low Risk
+41,140307,39566,604,30,3,PhD,Married,Own,High Risk
+29,146457,47368,664,2,1,High School,Divorced,Rent,High Risk
+67,129397,26675,678,20,4,Bachelor,Divorced,Own,High Risk
+52,37771,10495,642,25,4,High School,Divorced,Own,High Risk
+50,49975,47668,653,35,2,High School,Single,Rent,High Risk
+50,65648,18673,715,36,3,PhD,Single,Rent,High Risk
+68,145641,16130,408,21,2,PhD,Divorced,Own,High Risk
+60,68285,27668,796,11,2,Master,Single,Mortgage,High Risk
+54,39063,20222,640,12,0,Master,Divorced,Rent,High Risk
+29,87642,28669,682,10,4,Master,Single,Own,High Risk
+20,110093,39068,832,15,2,Bachelor,Divorced,Own,High Risk
+18,134390,28253,599,7,0,Master,Married,Mortgage,High Risk
+50,106143,14435,438,39,3,High School,Divorced,Rent,High Risk
+57,57599,33552,658,39,2,Master,Divorced,Own,High Risk
+27,71920,42384,798,1,4,PhD,Single,Mortgage,High Risk
+60,48529,21393,684,29,2,Master,Single,Own,High Risk
+61,55954,15617,579,29,3,Bachelor,Single,Rent,High Risk
+46,47856,43520,782,11,2,Bachelor,Single,Mortgage,High Risk
+30,22573,14852,410,9,4,High School,Single,Own,High Risk
+29,98344,36401,438,10,0,Bachelor,Single,Mortgage,High Risk
+48,55367,11295,734,14,4,Master,Married,Rent,High Risk
+63,122337,40993,808,15,0,PhD,Divorced,Mortgage,High Risk
+19,126732,39084,572,16,1,Bachelor,Divorced,Rent,High Risk
+68,119608,44575,398,25,4,High School,Divorced,Own,High Risk
+67,80774,41451,403,1,4,Master,Married,Rent,High Risk
+52,43752,12227,513,11,3,High School,Divorced,Own,High Risk
+40,75029,36910,464,25,2,Bachelor,Married,Own,High Risk
+34,37685,41041,819,22,0,Bachelor,Married,Rent,High Risk
+43,71693,28384,583,17,0,High School,Married,Own,High Risk
+25,136739,5145,816,31,3,Master,Divorced,Mortgage,High Risk
+46,75961,42778,463,37,3,Bachelor,Married,Own,High Risk
+43,126937,21035,363,2,2,PhD,Divorced,Rent,High Risk
+27,144956,8040,390,37,2,Bachelor,Divorced,Mortgage,High Risk
+43,96908,47422,416,2,4,Master,Single,Mortgage,High Risk
+51,145537,31160,566,29,1,Bachelor,Single,Own,High Risk
+68,146678,22633,439,0,2,High School,Married,Own,High Risk
+58,94532,34344,545,29,3,Bachelor,Married,Rent,High Risk
+24,101994,22014,694,31,2,Bachelor,Divorced,Mortgage,Low Risk
+21,76133,19996,786,27,0,Master,Married,Rent,Low Risk
+67,117425,46621,775,20,1,High School,Married,Own,High Risk
+62,145055,16695,816,12,4,Master,Divorced,Mortgage,High Risk
+28,81268,7852,483,26,0,Bachelor,Married,Rent,High Risk
+46,112201,21014,319,35,0,PhD,Married,Rent,High Risk
+53,58243,32042,823,6,1,Bachelor,Divorced,Rent,High Risk
+42,77384,38755,828,21,4,Master,Divorced,Rent,High Risk
+38,51653,45390,446,9,3,PhD,Single,Rent,High Risk
+53,46657,28711,603,38,4,Master,Divorced,Mortgage,High Risk
+27,59952,31122,527,14,2,Master,Single,Rent,High Risk
+54,42180,14160,401,14,0,High School,Married,Mortgage,High Risk
+26,117432,32213,716,3,2,PhD,Divorced,Rent,Low Risk
+41,141829,44420,515,31,3,Bachelor,Divorced,Own,High Risk
+52,148377,12421,706,22,2,Master,Divorced,Own,Low Risk
+66,98411,26400,698,5,4,Bachelor,Married,Rent,High Risk
+52,21622,38537,798,23,2,High School,Single,Own,High Risk
+65,68756,22727,764,19,3,High School,Married,Mortgage,High Risk
+53,60809,9358,381,36,3,PhD,Married,Rent,High Risk
+35,36725,33482,664,19,3,High School,Divorced,Mortgage,High Risk
+66,81396,37117,462,11,4,High School,Single,Rent,High Risk
+56,71226,28164,347,32,3,Bachelor,Married,Own,High Risk
+49,126296,36910,810,27,0,High School,Divorced,Mortgage,Low Risk
+41,101182,37496,628,7,3,High School,Married,Own,High Risk
+40,102565,49311,415,0,2,Master,Married,Own,High Risk
+49,49402,34371,636,36,2,High School,Divorced,Rent,High Risk
+54,24263,43467,446,21,2,Master,Divorced,Mortgage,High Risk
+29,143489,22625,622,5,4,High School,Single,Own,High Risk
+66,116523,38893,742,20,2,High School,Married,Rent,High Risk
+30,66828,15793,312,31,4,PhD,Divorced,Rent,High Risk
+40,140824,36007,793,34,4,PhD,Divorced,Rent,High Risk
+42,67924,30766,586,14,3,Master,Single,Own,High Risk
+52,94182,44532,413,4,0,High School,Single,Rent,High Risk
+58,113065,17323,779,5,3,Bachelor,Divorced,Mortgage,High Risk
+47,79052,12843,321,24,3,PhD,Single,Mortgage,High Risk
+34,31664,19210,648,39,4,Bachelor,Divorced,Own,High Risk
+66,55737,21456,619,28,4,PhD,Married,Mortgage,High Risk
+37,121332,36367,425,6,2,PhD,Single,Rent,High Risk
+65,109563,15106,576,39,2,High School,Married,Own,High Risk
+42,49373,42957,503,12,3,PhD,Married,Rent,High Risk
+39,137369,7472,493,37,1,Bachelor,Married,Own,High Risk
+30,56397,11704,846,17,1,PhD,Divorced,Own,Low Risk
+36,148575,8713,585,1,2,Master,Married,Rent,High Risk
+66,106145,10051,356,7,1,High School,Married,Mortgage,High Risk
+53,121371,15756,602,10,2,High School,Married,Mortgage,Low Risk
+29,58709,7475,462,32,4,Master,Divorced,Own,High Risk
+58,136074,41378,318,37,3,Master,Married,Rent,High Risk
+36,81120,9255,669,26,0,Master,Married,Rent,Low Risk
+29,39250,19484,563,19,3,PhD,Single,Own,High Risk
+26,41172,39503,412,11,2,High School,Divorced,Mortgage,High Risk
+24,31555,13258,787,30,2,Master,Married,Rent,High Risk
+45,107410,45747,626,26,3,PhD,Single,Mortgage,High Risk
+31,98617,40196,841,31,2,Master,Divorced,Mortgage,High Risk
+48,73276,45194,364,9,1,Bachelor,Divorced,Own,High Risk
+69,77492,13533,591,2,1,Bachelor,Divorced,Own,High Risk
+36,73002,37581,324,26,2,High School,Divorced,Mortgage,High Risk
+64,140103,10249,848,34,2,PhD,Divorced,Rent,Low Risk
+33,144938,24201,300,30,1,Bachelor,Divorced,Rent,High Risk
+22,109599,14686,848,14,2,Bachelor,Married,Own,Low Risk
+52,92355,37007,440,15,2,PhD,Married,Mortgage,High Risk
+29,111248,5661,487,12,3,Master,Married,Rent,High Risk
+42,44762,49843,427,34,0,PhD,Married,Rent,High Risk
+69,31046,35137,500,10,1,Master,Single,Own,High Risk
+38,116999,47828,426,20,3,Bachelor,Married,Mortgage,High Risk
+53,144130,15526,556,10,0,Bachelor,Divorced,Rent,High Risk
+40,136021,8374,846,29,2,Bachelor,Married,Own,Low Risk
+33,48769,30592,493,34,2,High School,Married,Rent,High Risk
+56,73302,33982,403,21,3,High School,Divorced,Rent,High Risk
+62,43150,5207,834,37,2,High School,Married,Rent,Low Risk
+59,88247,40433,564,30,4,PhD,Married,Own,High Risk
+56,24853,28197,683,13,3,Bachelor,Married,Mortgage,High Risk
+31,114613,38400,559,23,0,Bachelor,Single,Own,High Risk
+48,140900,8083,713,31,3,PhD,Married,Mortgage,High Risk
+22,109399,34328,657,35,1,High School,Divorced,Rent,High Risk
+52,41792,47891,374,31,3,PhD,Divorced,Mortgage,High Risk
+40,79129,25103,654,14,2,High School,Married,Rent,High Risk
+46,126019,44891,487,34,2,Bachelor,Married,Rent,High Risk
+60,94478,15754,589,2,4,Master,Married,Own,High Risk
+28,133811,39447,344,15,4,High School,Divorced,Rent,High Risk
+35,134130,20901,382,4,4,Bachelor,Divorced,Own,High Risk
+64,87298,38004,422,20,0,Bachelor,Single,Mortgage,High Risk
+29,51987,12446,657,9,4,Master,Single,Mortgage,High Risk
+26,35850,42211,827,18,0,Bachelor,Single,Rent,High Risk
+27,32112,34301,365,24,4,Bachelor,Divorced,Own,High Risk
+61,141789,31116,674,3,0,High School,Single,Rent,Low Risk
+34,44058,46323,461,28,3,High School,Married,Own,High Risk
+55,65420,23752,679,18,3,Master,Married,Own,High Risk
+24,58890,37376,657,1,2,Master,Divorced,Own,High Risk
+63,86017,21669,487,9,0,Bachelor,Single,Mortgage,High Risk
+30,67304,37916,621,24,1,High School,Married,Own,High Risk
+57,52921,18395,749,19,2,Master,Divorced,Mortgage,High Risk
+59,125921,25421,773,18,3,Master,Single,Own,High Risk
+26,21524,31342,312,22,0,PhD,Married,Mortgage,High Risk
+67,120424,9895,483,23,4,Master,Single,Mortgage,High Risk
+44,35048,16023,410,10,1,Bachelor,Divorced,Mortgage,High Risk
+19,55111,15699,807,33,3,High School,Single,Rent,High Risk
+22,57904,14715,589,27,2,Master,Divorced,Own,High Risk
+46,74912,24169,594,4,0,PhD,Single,Rent,High Risk
+54,54008,21163,750,4,1,High School,Married,Own,High Risk
+55,20060,10782,514,20,0,Master,Divorced,Own,High Risk
+36,94666,27641,326,11,4,PhD,Divorced,Rent,High Risk
+25,103559,23792,530,3,2,Master,Divorced,Mortgage,High Risk
+65,75337,40585,620,19,0,High School,Single,Own,High Risk
+62,130616,35682,532,37,3,High School,Single,Mortgage,High Risk
+18,33350,23880,736,24,2,High School,Married,Rent,High Risk
+39,44354,43067,832,13,3,Bachelor,Divorced,Mortgage,High Risk
+69,65186,47685,702,10,0,Master,Divorced,Own,High Risk
+34,48145,23073,352,31,2,Bachelor,Single,Own,High Risk
+24,54020,41035,612,10,3,High School,Single,Own,High Risk
+42,106123,42174,580,17,4,PhD,Married,Rent,High Risk
+62,126667,29837,330,26,4,Master,Married,Own,High Risk
+21,95186,22826,636,17,0,Bachelor,Single,Rent,Low Risk
+53,105469,29981,482,22,2,Master,Divorced,Mortgage,High Risk
+23,40581,15382,322,10,1,PhD,Married,Own,High Risk
+48,108929,9437,843,20,2,Bachelor,Single,Own,Low Risk
+36,43051,10435,745,4,4,High School,Single,Own,High Risk
+61,71474,29819,373,22,3,Bachelor,Divorced,Mortgage,High Risk
+56,111748,41875,309,24,1,Master,Single,Own,High Risk
+44,145995,36982,783,9,0,Master,Single,Rent,Low Risk
+27,134618,38328,755,21,1,Master,Married,Mortgage,Low Risk
+43,89626,17329,459,18,0,Master,Single,Mortgage,High Risk
+36,26960,30169,313,0,1,High School,Single,Mortgage,High Risk
+56,55772,26932,477,6,0,Bachelor,Married,Mortgage,High Risk
+20,41520,39594,711,3,0,High School,Divorced,Mortgage,High Risk
+62,69481,16421,352,0,1,High School,Divorced,Rent,High Risk
+30,56408,12629,707,14,1,High School,Married,Mortgage,Low Risk
+67,114006,13325,321,39,0,Master,Married,Own,High Risk
+45,148496,33495,329,11,4,Master,Divorced,Mortgage,High Risk
+37,77134,36750,559,21,1,Master,Divorced,Mortgage,High Risk
+45,40491,34619,504,21,2,Bachelor,Divorced,Mortgage,High Risk
+25,21341,45461,358,16,3,PhD,Divorced,Mortgage,High Risk
+58,64623,13264,770,28,0,Master,Divorced,Mortgage,Low Risk
+56,110327,17686,765,13,0,Bachelor,Married,Rent,Low Risk
+18,20338,29226,311,19,3,Master,Single,Rent,High Risk
+20,91431,11721,589,32,4,Master,Divorced,Mortgage,High Risk
+30,32254,25609,653,14,3,High School,Divorced,Rent,High Risk
+45,71860,12373,374,11,1,High School,Single,Own,High Risk
+66,31344,43675,740,39,3,High School,Single,Mortgage,High Risk
+42,21750,33937,540,19,0,Bachelor,Single,Own,High Risk
+50,74756,10656,453,29,3,PhD,Single,Own,High Risk
+55,87957,13984,395,37,2,PhD,Single,Mortgage,High Risk
+23,125423,34984,593,2,1,Bachelor,Single,Own,High Risk
+61,78053,13286,508,27,3,Master,Married,Own,High Risk
+62,90855,10901,642,25,0,Bachelor,Single,Own,Low Risk
+49,35896,36552,387,29,1,Master,Single,Mortgage,High Risk
+62,75761,30709,689,12,0,Bachelor,Married,Mortgage,High Risk
+64,82552,36055,624,12,4,Bachelor,Single,Own,High Risk
+38,140075,42685,456,1,2,Bachelor,Divorced,Mortgage,High Risk
+33,97454,13429,436,36,4,PhD,Divorced,Mortgage,High Risk
+38,146522,19716,727,37,2,High School,Single,Own,Low Risk
+28,138681,16138,751,1,3,Bachelor,Married,Mortgage,High Risk
+54,110600,40298,440,35,1,PhD,Divorced,Rent,High Risk
+53,142732,28429,382,25,3,High School,Married,Mortgage,High Risk
+52,132153,10772,476,10,2,High School,Divorced,Rent,High Risk
+36,142926,40732,497,7,2,Bachelor,Single,Own,High Risk
+37,47935,44905,720,39,2,Master,Married,Mortgage,High Risk
+35,57641,22347,700,21,0,Master,Married,Own,High Risk
+64,49711,21920,770,19,1,Master,Married,Own,High Risk
+58,90342,36822,517,7,3,Bachelor,Divorced,Own,High Risk
+66,126896,45108,474,28,3,Master,Divorced,Own,High Risk
+31,32182,28563,322,39,4,PhD,Divorced,Own,High Risk
+32,107833,12967,534,25,2,PhD,Single,Mortgage,High Risk
+48,76276,16871,312,29,2,PhD,Divorced,Rent,High Risk
+18,39541,33763,400,16,2,PhD,Single,Mortgage,High Risk
+20,114457,16916,835,19,3,High School,Married,Mortgage,High Risk
+33,102310,13734,822,15,4,PhD,Married,Mortgage,High Risk
+40,64813,38613,751,6,0,Master,Single,Mortgage,High Risk
+28,57198,33179,730,15,1,Bachelor,Divorced,Rent,High Risk
+29,28820,40262,832,26,0,Master,Single,Mortgage,High Risk
+27,44070,17677,592,22,3,PhD,Married,Own,High Risk
+49,89768,23268,400,23,2,High School,Married,Mortgage,High Risk
+33,31122,17330,801,8,1,PhD,Single,Mortgage,High Risk
+25,100559,25733,603,34,3,Bachelor,Divorced,Rent,High Risk
+55,93543,42947,839,19,3,Master,Divorced,Rent,High Risk
+29,103441,32286,654,36,3,Bachelor,Single,Own,High Risk
+41,61786,11610,602,16,1,Bachelor,Single,Mortgage,Low Risk
+45,114934,11430,795,30,1,Bachelor,Divorced,Mortgage,Low Risk
+25,119804,44922,526,7,4,Master,Married,Mortgage,High Risk
+45,26737,18828,535,14,4,PhD,Single,Own,High Risk
+53,56062,47913,754,30,0,Bachelor,Divorced,Rent,High Risk
+43,74237,36497,312,29,1,Master,Divorced,Own,High Risk
+25,71571,44256,509,19,1,High School,Married,Mortgage,High Risk
+67,45510,41618,696,38,1,Master,Married,Rent,High Risk
+45,39426,31526,399,11,4,High School,Married,Rent,High Risk
+45,57265,35158,330,16,3,Master,Married,Own,High Risk
+54,37850,30032,827,29,2,PhD,Married,Rent,High Risk
+58,138249,42846,628,28,4,Bachelor,Single,Rent,High Risk
+53,86150,49936,465,18,1,PhD,Divorced,Mortgage,High Risk
+44,107312,34794,758,10,4,Master,Single,Mortgage,High Risk
+34,109613,10448,399,33,0,Bachelor,Single,Rent,High Risk
+26,94910,33861,472,6,1,High School,Single,Rent,High Risk
+50,72375,33141,461,33,0,Master,Single,Own,High Risk
+37,141826,14074,562,19,1,Bachelor,Single,Own,High Risk
+30,55435,11406,573,37,4,High School,Married,Rent,High Risk
+45,116443,36823,302,23,3,High School,Married,Mortgage,High Risk
+65,77132,28291,327,9,2,PhD,Divorced,Rent,High Risk
+46,98945,46568,625,31,0,Master,Single,Rent,High Risk
+30,102050,37003,448,14,4,High School,Divorced,Mortgage,High Risk
+63,149828,39406,839,36,3,Bachelor,Married,Mortgage,High Risk
+52,115402,28312,787,19,4,High School,Married,Own,High Risk
+23,22983,48108,737,2,0,High School,Married,Own,High Risk
+35,117241,6382,364,36,2,PhD,Single,Own,High Risk
+68,40662,39171,655,39,4,PhD,Single,Own,High Risk
+22,43510,46779,832,7,1,Bachelor,Married,Mortgage,High Risk
+64,98187,8292,551,39,3,PhD,Divorced,Rent,High Risk
+42,60998,46779,534,22,4,High School,Divorced,Own,High Risk
+19,76846,38187,526,39,3,High School,Married,Own,High Risk
+27,114071,17411,824,10,1,PhD,Divorced,Mortgage,Low Risk
+47,26640,42285,612,7,2,High School,Married,Mortgage,High Risk
+67,64547,20422,348,28,2,High School,Divorced,Rent,High Risk
+62,74620,47468,417,29,1,Bachelor,Married,Rent,High Risk
+22,35317,37371,353,9,3,PhD,Divorced,Mortgage,High Risk
+50,135608,10693,343,38,4,High School,Single,Own,High Risk
+18,27564,38535,352,27,1,PhD,Married,Own,High Risk
+35,47345,19818,824,35,0,Bachelor,Married,Own,High Risk
+49,133824,36238,401,12,3,PhD,Divorced,Rent,High Risk
+64,114223,35874,697,31,2,High School,Married,Own,High Risk
+66,143372,31715,437,35,1,PhD,Married,Own,High Risk
+28,99273,32605,686,36,2,High School,Married,Mortgage,High Risk
+38,94859,39317,410,25,3,High School,Single,Own,High Risk
+43,100765,36174,316,21,2,High School,Single,Mortgage,High Risk
+42,130017,14956,481,3,1,Bachelor,Divorced,Own,High Risk
+39,94038,43908,835,30,3,PhD,Single,Rent,High Risk
+44,143618,15837,840,17,0,Bachelor,Divorced,Own,Low Risk
+66,72393,8716,470,37,1,PhD,Single,Own,High Risk
+30,86081,9481,708,23,4,Bachelor,Divorced,Mortgage,High Risk
+50,145341,29282,677,22,1,Master,Single,Mortgage,Low Risk
+51,122650,11548,487,21,3,High School,Single,Mortgage,High Risk
+58,49430,42605,529,1,1,High School,Divorced,Own,High Risk
+52,95532,12758,418,30,0,Bachelor,Married,Own,High Risk
+18,47788,48668,455,10,0,Master,Married,Rent,High Risk
+38,115505,28177,764,27,4,High School,Single,Own,High Risk
+65,68543,29022,403,31,2,PhD,Divorced,Rent,High Risk
+23,33919,45761,801,4,3,Bachelor,Married,Mortgage,High Risk
+45,89346,10542,474,37,3,High School,Divorced,Mortgage,High Risk
+34,116122,30476,720,9,2,High School,Married,Mortgage,Low Risk
+22,59974,35784,433,39,0,Bachelor,Divorced,Rent,High Risk
+48,127309,27740,690,23,0,Bachelor,Single,Own,Low Risk
+22,36371,29817,800,34,1,PhD,Divorced,Mortgage,High Risk
+55,65084,21052,332,22,4,PhD,Married,Own,High Risk
+20,49629,40153,354,16,4,High School,Single,Own,High Risk
+40,71184,5671,818,0,4,High School,Divorced,Mortgage,High Risk
+54,81916,5163,311,30,1,Bachelor,Married,Rent,High Risk
+54,147293,46424,827,30,4,High School,Single,Own,High Risk
+27,93972,49002,672,33,2,High School,Divorced,Mortgage,High Risk
+27,82187,9795,783,8,1,Bachelor,Married,Own,Low Risk
+36,32984,15634,527,21,2,High School,Divorced,Own,High Risk
+34,53039,9798,606,12,1,High School,Divorced,Own,Low Risk
+38,105431,27420,756,24,4,Master,Single,Own,High Risk
+31,103691,34300,459,17,2,PhD,Single,Own,High Risk
+26,78606,29345,630,11,2,Bachelor,Married,Rent,High Risk
+63,30616,15749,524,39,2,Master,Single,Rent,High Risk
+18,122665,43595,803,16,1,PhD,Married,Mortgage,High Risk
+68,125373,30121,755,14,3,PhD,Divorced,Rent,High Risk
+62,70072,42487,344,14,4,PhD,Divorced,Rent,High Risk
+30,44574,33411,513,14,2,Master,Married,Rent,High Risk
+21,23430,38361,358,38,3,Master,Divorced,Own,High Risk
+18,139123,26223,494,12,4,PhD,Single,Own,High Risk
+66,32676,12394,788,16,4,High School,Divorced,Mortgage,High Risk
+57,30816,19056,456,31,2,High School,Single,Mortgage,High Risk
+49,52733,33380,525,8,2,Master,Married,Mortgage,High Risk
+51,105680,31035,711,39,1,Master,Married,Own,Low Risk
+45,22050,35620,504,19,3,Master,Divorced,Rent,High Risk
+48,129996,24877,378,25,3,PhD,Divorced,Rent,High Risk
+25,53933,48404,423,26,2,High School,Single,Own,High Risk
+56,44951,35911,770,20,4,Master,Single,Mortgage,High Risk
+43,52413,37784,517,17,2,Master,Divorced,Mortgage,High Risk
+51,54801,8191,815,12,4,Bachelor,Divorced,Mortgage,High Risk
+20,75619,38160,403,15,4,PhD,Married,Own,High Risk
+67,52913,30000,692,8,2,Bachelor,Married,Mortgage,High Risk
+29,132573,44040,733,11,0,High School,Married,Mortgage,High Risk
+18,139076,8631,630,37,3,Bachelor,Divorced,Own,High Risk
+61,60600,11172,442,18,4,Bachelor,Divorced,Rent,High Risk
+22,77775,47080,839,6,4,Bachelor,Divorced,Own,High Risk
+47,110816,28561,577,34,0,PhD,Married,Own,High Risk
+47,149972,29817,532,17,1,High School,Divorced,Own,High Risk
+34,110093,25281,828,15,0,Bachelor,Single,Own,Low Risk
+65,132590,33671,389,38,0,PhD,Divorced,Rent,High Risk
+64,55400,30364,791,3,4,High School,Divorced,Mortgage,High Risk
+40,24494,46674,498,24,3,Master,Divorced,Own,High Risk
+32,100688,32425,661,31,0,Bachelor,Divorced,Rent,High Risk
+54,142744,33602,740,39,1,High School,Divorced,Mortgage,Low Risk
+38,109431,28253,325,12,2,Bachelor,Single,Mortgage,High Risk
+31,94691,28472,324,16,0,Master,Single,Mortgage,High Risk
+19,117419,13080,693,36,0,High School,Divorced,Own,Low Risk
+28,128730,12099,806,5,1,PhD,Married,Own,Low Risk
+68,63001,30431,600,18,3,High School,Divorced,Mortgage,High Risk
+56,87364,36186,638,12,0,PhD,Divorced,Mortgage,High Risk
+55,144988,35111,566,25,0,High School,Divorced,Mortgage,High Risk
+51,65028,44851,760,13,3,PhD,Married,Mortgage,High Risk
+55,127434,27614,755,30,1,Master,Married,Mortgage,Low Risk
+67,117659,31724,659,3,0,Master,Married,Mortgage,Low Risk
+51,57573,46991,367,38,3,Master,Single,Rent,High Risk
+35,20806,9940,711,7,0,High School,Married,Mortgage,High Risk
+47,144343,33758,790,24,2,Master,Single,Own,Low Risk
+32,76638,41224,348,12,4,Bachelor,Single,Own,High Risk
+44,148301,12788,401,31,2,Master,Married,Own,High Risk
+68,146295,33082,515,37,0,PhD,Married,Mortgage,High Risk
+51,126506,29034,737,37,1,PhD,Married,Own,Low Risk
+69,49757,40479,458,27,4,PhD,Single,Rent,High Risk
+55,54636,16280,788,29,2,High School,Divorced,Mortgage,Low Risk
+50,100097,23052,541,2,3,Bachelor,Married,Own,High Risk
+41,68280,21531,304,27,1,Master,Married,Rent,High Risk
+32,44262,27804,660,2,2,Bachelor,Married,Rent,High Risk
+47,100435,33903,758,33,3,Bachelor,Single,Own,High Risk
+59,82211,49857,547,15,0,PhD,Single,Rent,High Risk
+68,74842,15142,721,21,3,PhD,Divorced,Own,High Risk
+34,148583,14866,314,31,2,PhD,Married,Rent,High Risk
+22,76979,9531,421,37,2,High School,Single,Mortgage,High Risk
+46,134524,43098,576,7,0,Bachelor,Divorced,Mortgage,High Risk
+21,101470,43278,752,7,3,Bachelor,Married,Mortgage,High Risk
+27,58197,33138,689,5,3,High School,Single,Mortgage,High Risk
+34,61844,32065,593,13,0,High School,Married,Mortgage,High Risk
+27,84754,34956,745,31,3,High School,Married,Own,High Risk
+34,121868,46732,509,34,0,Bachelor,Single,Mortgage,High Risk
+37,54157,44261,601,9,1,Bachelor,Single,Mortgage,High Risk
+41,97129,15759,522,2,2,PhD,Single,Mortgage,High Risk
+22,60042,10439,302,11,1,PhD,Married,Mortgage,High Risk
+51,81665,47533,817,30,4,Bachelor,Married,Rent,High Risk
+23,135512,33270,392,28,4,PhD,Divorced,Mortgage,High Risk
+19,136953,18279,819,4,4,High School,Married,Mortgage,High Risk
+30,102856,44279,727,24,0,Master,Single,Own,High Risk
+60,47376,49251,792,30,3,PhD,Married,Rent,High Risk
+60,129049,28888,534,20,1,Bachelor,Divorced,Own,High Risk
+65,75554,22630,460,19,1,PhD,Divorced,Mortgage,High Risk
+28,34199,40144,630,38,1,PhD,Single,Own,High Risk
+68,138533,36182,632,21,1,PhD,Single,Own,Low Risk
+64,101412,30538,349,3,4,Master,Divorced,Mortgage,High Risk
+40,70948,16824,822,12,1,High School,Divorced,Rent,Low Risk
+33,93781,37125,791,19,3,Bachelor,Divorced,Rent,High Risk
+48,92750,11979,571,12,4,Master,Single,Own,High Risk
+28,86262,31189,551,16,1,Bachelor,Divorced,Mortgage,High Risk
+33,137424,47600,389,35,0,Bachelor,Divorced,Own,High Risk
+25,66600,17504,745,32,2,Bachelor,Single,Own,Low Risk
+21,96898,25669,631,0,2,Master,Married,Own,High Risk
+57,82483,11910,438,14,2,High School,Married,Mortgage,High Risk
+21,38297,39964,656,12,4,Bachelor,Divorced,Mortgage,High Risk
+42,50448,25131,573,16,1,High School,Married,Rent,High Risk
+20,46172,30227,318,23,4,High School,Married,Mortgage,High Risk
+49,62874,10978,610,7,3,PhD,Married,Own,High Risk
+20,27657,26991,453,26,0,Master,Married,Own,High Risk
+44,104386,22153,689,22,0,Master,Divorced,Rent,Low Risk
+46,145617,38548,559,7,2,PhD,Married,Mortgage,High Risk
+49,45425,47676,424,7,2,PhD,Married,Own,High Risk
+67,46685,44071,653,25,2,High School,Single,Rent,High Risk
+68,142000,8983,572,12,1,Bachelor,Divorced,Rent,High Risk
+36,132855,14503,544,38,3,Master,Single,Own,High Risk
+38,44578,34921,749,36,3,Bachelor,Single,Own,High Risk
+22,48831,21905,546,27,3,Bachelor,Divorced,Mortgage,High Risk
+35,27906,28953,819,24,3,PhD,Married,Rent,High Risk
+45,81413,31806,440,15,2,Bachelor,Single,Own,High Risk
+59,74028,27168,661,1,0,High School,Divorced,Rent,High Risk
+39,27287,9583,307,17,2,PhD,Married,Mortgage,High Risk
+38,53660,43714,777,16,3,Bachelor,Divorced,Own,High Risk
+23,95758,44896,651,29,2,PhD,Single,Mortgage,High Risk
+18,80504,16889,794,38,3,High School,Married,Rent,High Risk
+22,79720,32413,726,12,4,High School,Married,Mortgage,High Risk
+58,122979,17275,338,31,0,Bachelor,Divorced,Mortgage,High Risk
+29,54701,7461,486,28,4,PhD,Married,Rent,High Risk
+43,103300,19291,392,29,1,Bachelor,Single,Mortgage,High Risk
+63,130177,16435,385,17,2,Bachelor,Single,Rent,High Risk
+51,37674,32935,343,12,1,PhD,Single,Own,High Risk
+66,103560,38453,436,20,2,Bachelor,Divorced,Rent,High Risk
+31,131543,23544,720,29,4,High School,Married,Rent,High Risk
+43,43874,17258,373,20,3,PhD,Married,Own,High Risk
+62,63642,35841,847,16,3,PhD,Married,Rent,High Risk
+44,143867,15736,811,39,2,PhD,Single,Own,Low Risk
+26,117820,42643,455,18,3,PhD,Married,Own,High Risk
+43,85160,48950,554,14,4,Bachelor,Single,Rent,High Risk
+64,37602,39964,470,8,3,Bachelor,Married,Mortgage,High Risk
+39,123320,33044,469,9,4,High School,Single,Mortgage,High Risk
+64,108801,44933,621,30,1,Master,Married,Own,High Risk
+47,45931,20997,755,22,4,Master,Divorced,Mortgage,High Risk
+60,114377,19215,454,29,0,High School,Divorced,Mortgage,High Risk
+65,49192,38069,648,32,0,Master,Single,Rent,High Risk
+34,66542,28911,750,8,0,High School,Single,Own,High Risk
+43,147015,22030,472,0,2,Bachelor,Married,Own,High Risk
+53,62520,34334,309,34,2,PhD,Married,Rent,High Risk
+18,84772,19571,564,10,2,PhD,Divorced,Mortgage,High Risk
+25,78762,47719,737,33,4,Bachelor,Married,Own,High Risk
+66,70106,33927,546,15,2,PhD,Single,Mortgage,High Risk
+52,101121,25714,845,8,1,PhD,Single,Own,Low Risk
+69,45559,48541,798,31,0,Master,Single,Own,High Risk
+32,125595,28387,428,14,4,Bachelor,Single,Own,High Risk
+64,53742,33444,626,11,0,Master,Single,Own,High Risk
+39,89669,24921,703,32,2,Master,Divorced,Mortgage,Low Risk
+31,100199,18057,658,13,4,PhD,Divorced,Mortgage,High Risk
+43,41754,29858,316,7,3,PhD,Single,Mortgage,High Risk
+45,23972,49638,573,7,1,Bachelor,Married,Mortgage,High Risk
+40,90831,31062,415,26,2,PhD,Single,Rent,High Risk
+31,132217,41850,390,11,2,PhD,Divorced,Own,High Risk
+41,61873,25567,381,0,1,Bachelor,Single,Own,High Risk
+19,114661,34739,623,39,1,PhD,Divorced,Own,High Risk
+62,126532,48285,413,10,3,Master,Divorced,Rent,High Risk
+43,146267,8754,357,38,2,Bachelor,Single,Mortgage,High Risk
+31,29903,32044,453,30,2,PhD,Single,Own,High Risk
+68,23020,6724,703,16,0,High School,Married,Mortgage,Low Risk
+24,61755,6376,565,32,4,Bachelor,Divorced,Mortgage,High Risk
+20,105956,13706,614,31,4,Bachelor,Married,Rent,High Risk
+64,106988,13894,340,28,0,High School,Single,Rent,High Risk
+40,65648,23037,404,20,4,PhD,Divorced,Mortgage,High Risk
+63,123537,23450,492,20,1,PhD,Married,Own,High Risk
+60,145991,21406,700,39,4,Bachelor,Married,Own,High Risk
+64,29516,34725,577,22,4,Bachelor,Married,Rent,High Risk
+62,132863,10926,653,5,0,PhD,Single,Rent,Low Risk
+35,135005,44019,555,21,3,PhD,Single,Rent,High Risk
+55,22396,14496,398,37,4,Master,Single,Rent,High Risk
